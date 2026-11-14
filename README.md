@@ -55,6 +55,6 @@ Fuentes principales:
 
 ## Estado
 
-El API ASP.NET Core compila con .NET 10. El PDF está incluido en `ui/public/guia-biblica-catolica.pdf` para que la aplicación también lo ofrezca como descarga. La interfaz Angular aún necesita instalar Node/npm para generar su build; la publicación de la pila completa requiere elegir un proveedor que ejecute contenedores.
+El API ASP.NET Core compila con .NET 10 y la interfaz Angular compila en modo de producción con Node.js 24.15. El PDF está incluido en `ui/public/guia-biblica-catolica.pdf` para que la aplicación también lo ofrezca como descarga. La publicación de la pila completa requiere elegir un proveedor que ejecute contenedores.
 
 La carpeta `docs/` incluye la revisión de la página pública de referencia y el fuente LaTeX de la guía.
