@@ -1,0 +1,332 @@
+{
+  "slug": "rut",
+  "order": 8,
+  "title": "Rut",
+  "group": "Libros históricos",
+  "testament": "Antiguo Testamento",
+  "testamentShort": "AT",
+  "status": "contenido-inicial",
+  "summary": "Una historia de lealtad entre Rut y Noemí que desemboca en la genealogía de David.",
+  "role": "En una narración familiar, una mujer moabita ocupa un lugar decisivo en la historia de Israel.",
+  "context": "Aunque la trama se ubica en tiempos de los jueces, es una narración familiar centrada en cosecha, parentesco y acogida. El libro conecta a Rut, una moabita, con la genealogía de David; su fecha de composición no es segura.",
+  "question": "¿Cómo actúan la lealtad, la acogida y la providencia en decisiones cotidianas?",
+  "sourceUrl": "https://bible.usccb.org/bible/ruth/0",
+  "reviewStatus": "borrador-editorial",
+  "sections": [
+    {
+      "id": "panorama",
+      "title": "Panorama del libro"
+    },
+    {
+      "id": "lugar-en-la-biblia",
+      "title": "Su lugar en la Biblia"
+    },
+    {
+      "id": "contexto",
+      "title": "Contexto y lectura"
+    },
+    {
+      "id": "lectura-guiada",
+      "title": "Lectura guiada"
+    },
+    {
+      "id": "encuentro",
+      "title": "Encuentro en grupo"
+    },
+    {
+      "id": "autor-y-destinatarios",
+      "title": "Autoría y destinatarios"
+    }
+  ],
+  "levels": [
+    {
+      "id": "descubrir",
+      "title": "Descubrir",
+      "subtitle": "Una primera mirada",
+      "audience": "Lectura inicial o en grupo",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "¿De qué trata?",
+          "text": "Una historia de lealtad entre Rut y Noemí que desemboca en la genealogía de David.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "¿Por qué importa?",
+          "text": "En una narración familiar, una mujer moabita ocupa un lugar decisivo en la historia de Israel.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Una clave para leer",
+          "text": "Aunque la trama se ubica en tiempos de los jueces, es una narración familiar centrada en cosecha, parentesco y acogida. El libro conecta a Rut, una moabita, con la genealogía de David; su fecha de composición no es segura.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta para conversar",
+          "text": "¿Cómo actúan la lealtad, la acogida y la providencia en decisiones cotidianas?",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "En grupo o en familia: lean el panorama y compartan qué palabra o tema les llamó la atención. Después conversen: ¿Cómo actúan la lealtad, la acogida y la providencia en decisiones cotidianas? Cada persona proponga una acción concreta inspirada por la lectura.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: Esta síntesis no identifica con seguridad a un autor único. La tradición, las voces del propio texto y las hipótesis sobre su composición deben evaluarse por separado. Destinatarios: El relato invita a Israel a interpretar su memoria colectiva. La comunidad destinataria y la fecha de la edición final deben comprobarse en la introducción del libro.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Rut (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comprender",
+      "title": "Comprender",
+      "subtitle": "Leer en su contexto",
+      "audience": "Estudio personal o comunitario",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Tesis de lectura",
+          "text": "Una historia de lealtad entre Rut y Noemí que desemboca en la genealogía de David. Esta síntesis orienta la lectura; conviene comprobarla en el texto completo y atender a sus distintas voces y unidades.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Función dentro del canon",
+          "text": "En una narración familiar, una mujer moabita ocupa un lugar decisivo en la historia de Israel. Observa cómo este lugar en la secuencia bíblica dialoga con los libros que lo preceden y lo siguen, sin borrar la perspectiva propia de cada escrito.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Contexto histórico y literario",
+          "text": "Aunque la trama se ubica en tiempos de los jueces, es una narración familiar centrada en cosecha, parentesco y acogida. El libro conecta a Rut, una moabita, con la genealogía de David; su fecha de composición no es segura. Para cada pasaje, identifica quién habla, a quién, en qué género y dentro de qué unidad literaria. Las fechas y reconstrucciones deben distinguirse de lo que el texto afirma explícitamente.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Itinerario de lectura",
+          "text": "1. Lee una unidad completa del libro. 2. Anota repeticiones, cambios de escena y palabras clave. 3. Responde: ¿Cómo actúan la lealtad, la acogida y la providencia en decisiones cotidianas? 4. Contrasta tu lectura con una introducción y las notas de una Biblia católica.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Encuentro sugerido (30–45 min): lean una unidad completa del libro; en parejas observen voces, estructura y contexto; reúnan sus observaciones y conversen: ¿Cómo actúan la lealtad, la acogida y la providencia en decisiones cotidianas? Cierren distinguiendo lo que el texto dice de lo que ustedes infieren.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: Esta síntesis no identifica con seguridad a un autor único. La tradición, las voces del propio texto y las hipótesis sobre su composición deben evaluarse por separado. Destinatarios: El relato invita a Israel a interpretar su memoria colectiva. La comunidad destinataria y la fecha de la edición final deben comprobarse en la introducción del libro.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Rut (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar",
+      "title": "Investigar",
+      "subtitle": "Preguntar y contrastar",
+      "audience": "Lectores que desean profundizar",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Delimitación del problema",
+          "text": "Punto de partida: Una historia de lealtad entre Rut y Noemí que desemboca en la genealogía de David. Formula una pregunta concreta sobre la forma final del libro, su estructura, vocabulario o recepción. No conviertas una síntesis panorámica en una conclusión sobre autoría o fecha.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Lectura canónica",
+          "text": "En una narración familiar, una mujer moabita ocupa un lugar decisivo en la historia de Israel. Examina qué conexiones con otros libros están explícitas en el texto y cuáles pertenecen a su recepción posterior. Registra el criterio usado para cada relación.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Método y cautelas",
+          "text": "Aunque la trama se ubica en tiempos de los jueces, es una narración familiar centrada en cosecha, parentesco y acogida. El libro conecta a Rut, una moabita, con la genealogía de David; su fecha de composición no es segura. Separa observación textual, interpretación teológica y reconstrucción histórica. Contrasta la lectura literaria de la forma final con las hipótesis históricas disponibles; presenta como debatible aquello que no tiene consenso.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta de investigación",
+          "text": "¿Cómo actúan la lealtad, la acogida y la providencia en decisiones cotidianas? ¿Qué evidencia del propio texto apoya cada respuesta? ¿Qué interpretación alternativa es posible? Consulta Dei Verbum 12 y contrasta la introducción editorial citada, que no equivale por sí sola a doctrina de la Iglesia.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Taller de lectura: formulen una pregunta sobre el libro, recojan evidencias del texto y comparen dos explicaciones posibles. Usen esta pregunta como punto de partida: ¿Cómo actúan la lealtad, la acogida y la providencia en decisiones cotidianas? Registren qué fuente respalda cada conclusión y qué queda abierto.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Rut",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: Esta síntesis no identifica con seguridad a un autor único. La tradición, las voces del propio texto y las hipótesis sobre su composición deben evaluarse por separado. Destinatarios: El relato invita a Israel a interpretar su memoria colectiva. La comunidad destinataria y la fecha de la edición final deben comprobarse en la introducción del libro.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Rut (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/ruth/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorship": {
+    "claim": "Esta síntesis no identifica con seguridad a un autor único. La tradición, las voces del propio texto y las hipótesis sobre su composición deben evaluarse por separado.",
+    "classification": "autoría no establecida aquí",
+    "certainty": "consultar la introducción del libro",
+    "sourceUrl": "https://bible.usccb.org/bible/ruth/0"
+  },
+  "audience": {
+    "claim": "El relato invita a Israel a interpretar su memoria colectiva. La comunidad destinataria y la fecha de la edición final deben comprobarse en la introducción del libro.",
+    "classification": "marco comunitario de Israel",
+    "certainty": "audiencia exacta no establecida aquí",
+    "sourceUrl": "https://bible.usccb.org/bible/ruth/0"
+  }
+}
+

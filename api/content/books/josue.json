@@ -1,0 +1,332 @@
+{
+  "slug": "josue",
+  "order": 6,
+  "title": "Josué",
+  "group": "Libros históricos",
+  "testament": "Antiguo Testamento",
+  "testamentShort": "AT",
+  "status": "contenido-inicial",
+  "summary": "Narra la entrada en Canaán, la distribución de la tierra y la renovación de la alianza.",
+  "role": "Continúa la promesa de la tierra; sus relatos deben leerse como literatura antigua con propósito teológico.",
+  "context": "Narra la entrada en Canaán y la distribución de la tierra como cumplimiento de promesas. Sus relatos son una interpretación teológica antigua, no una crónica moderna; su relación con la arqueología es objeto de debate.",
+  "question": "¿Cómo representa el libro la promesa, la tierra y sus límites éticos?",
+  "sourceUrl": "https://bible.usccb.org/bible/joshua/0",
+  "reviewStatus": "borrador-editorial",
+  "sections": [
+    {
+      "id": "panorama",
+      "title": "Panorama del libro"
+    },
+    {
+      "id": "lugar-en-la-biblia",
+      "title": "Su lugar en la Biblia"
+    },
+    {
+      "id": "contexto",
+      "title": "Contexto y lectura"
+    },
+    {
+      "id": "lectura-guiada",
+      "title": "Lectura guiada"
+    },
+    {
+      "id": "encuentro",
+      "title": "Encuentro en grupo"
+    },
+    {
+      "id": "autor-y-destinatarios",
+      "title": "Autoría y destinatarios"
+    }
+  ],
+  "levels": [
+    {
+      "id": "descubrir",
+      "title": "Descubrir",
+      "subtitle": "Una primera mirada",
+      "audience": "Lectura inicial o en grupo",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "¿De qué trata?",
+          "text": "Narra la entrada en Canaán, la distribución de la tierra y la renovación de la alianza.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "¿Por qué importa?",
+          "text": "Continúa la promesa de la tierra; sus relatos deben leerse como literatura antigua con propósito teológico.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Una clave para leer",
+          "text": "Narra la entrada en Canaán y la distribución de la tierra como cumplimiento de promesas. Sus relatos son una interpretación teológica antigua, no una crónica moderna; su relación con la arqueología es objeto de debate.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta para conversar",
+          "text": "¿Cómo representa el libro la promesa, la tierra y sus límites éticos?",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "En grupo o en familia: lean el panorama y compartan qué palabra o tema les llamó la atención. Después conversen: ¿Cómo representa el libro la promesa, la tierra y sus límites éticos? Cada persona proponga una acción concreta inspirada por la lectura.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: Esta síntesis no identifica con seguridad a un autor único. La tradición, las voces del propio texto y las hipótesis sobre su composición deben evaluarse por separado. Destinatarios: El relato invita a Israel a interpretar su memoria colectiva. La comunidad destinataria y la fecha de la edición final deben comprobarse en la introducción del libro.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Josué (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comprender",
+      "title": "Comprender",
+      "subtitle": "Leer en su contexto",
+      "audience": "Estudio personal o comunitario",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Tesis de lectura",
+          "text": "Narra la entrada en Canaán, la distribución de la tierra y la renovación de la alianza. Esta síntesis orienta la lectura; conviene comprobarla en el texto completo y atender a sus distintas voces y unidades.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Función dentro del canon",
+          "text": "Continúa la promesa de la tierra; sus relatos deben leerse como literatura antigua con propósito teológico. Observa cómo este lugar en la secuencia bíblica dialoga con los libros que lo preceden y lo siguen, sin borrar la perspectiva propia de cada escrito.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Contexto histórico y literario",
+          "text": "Narra la entrada en Canaán y la distribución de la tierra como cumplimiento de promesas. Sus relatos son una interpretación teológica antigua, no una crónica moderna; su relación con la arqueología es objeto de debate. Para cada pasaje, identifica quién habla, a quién, en qué género y dentro de qué unidad literaria. Las fechas y reconstrucciones deben distinguirse de lo que el texto afirma explícitamente.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Itinerario de lectura",
+          "text": "1. Lee una unidad completa del libro. 2. Anota repeticiones, cambios de escena y palabras clave. 3. Responde: ¿Cómo representa el libro la promesa, la tierra y sus límites éticos? 4. Contrasta tu lectura con una introducción y las notas de una Biblia católica.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Encuentro sugerido (30–45 min): lean una unidad completa del libro; en parejas observen voces, estructura y contexto; reúnan sus observaciones y conversen: ¿Cómo representa el libro la promesa, la tierra y sus límites éticos? Cierren distinguiendo lo que el texto dice de lo que ustedes infieren.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: Esta síntesis no identifica con seguridad a un autor único. La tradición, las voces del propio texto y las hipótesis sobre su composición deben evaluarse por separado. Destinatarios: El relato invita a Israel a interpretar su memoria colectiva. La comunidad destinataria y la fecha de la edición final deben comprobarse en la introducción del libro.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Josué (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar",
+      "title": "Investigar",
+      "subtitle": "Preguntar y contrastar",
+      "audience": "Lectores que desean profundizar",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Delimitación del problema",
+          "text": "Punto de partida: Narra la entrada en Canaán, la distribución de la tierra y la renovación de la alianza. Formula una pregunta concreta sobre la forma final del libro, su estructura, vocabulario o recepción. No conviertas una síntesis panorámica en una conclusión sobre autoría o fecha.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Lectura canónica",
+          "text": "Continúa la promesa de la tierra; sus relatos deben leerse como literatura antigua con propósito teológico. Examina qué conexiones con otros libros están explícitas en el texto y cuáles pertenecen a su recepción posterior. Registra el criterio usado para cada relación.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Método y cautelas",
+          "text": "Narra la entrada en Canaán y la distribución de la tierra como cumplimiento de promesas. Sus relatos son una interpretación teológica antigua, no una crónica moderna; su relación con la arqueología es objeto de debate. Separa observación textual, interpretación teológica y reconstrucción histórica. Contrasta la lectura literaria de la forma final con las hipótesis históricas disponibles; presenta como debatible aquello que no tiene consenso.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta de investigación",
+          "text": "¿Cómo representa el libro la promesa, la tierra y sus límites éticos? ¿Qué evidencia del propio texto apoya cada respuesta? ¿Qué interpretación alternativa es posible? Consulta Dei Verbum 12 y contrasta la introducción editorial citada, que no equivale por sí sola a doctrina de la Iglesia.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Taller de lectura: formulen una pregunta sobre el libro, recojan evidencias del texto y comparen dos explicaciones posibles. Usen esta pregunta como punto de partida: ¿Cómo representa el libro la promesa, la tierra y sus límites éticos? Registren qué fuente respalda cada conclusión y qué queda abierto.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Josué",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: Esta síntesis no identifica con seguridad a un autor único. La tradición, las voces del propio texto y las hipótesis sobre su composición deben evaluarse por separado. Destinatarios: El relato invita a Israel a interpretar su memoria colectiva. La comunidad destinataria y la fecha de la edición final deben comprobarse en la introducción del libro.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Josué (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/joshua/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorship": {
+    "claim": "Esta síntesis no identifica con seguridad a un autor único. La tradición, las voces del propio texto y las hipótesis sobre su composición deben evaluarse por separado.",
+    "classification": "autoría no establecida aquí",
+    "certainty": "consultar la introducción del libro",
+    "sourceUrl": "https://bible.usccb.org/bible/joshua/0"
+  },
+  "audience": {
+    "claim": "El relato invita a Israel a interpretar su memoria colectiva. La comunidad destinataria y la fecha de la edición final deben comprobarse en la introducción del libro.",
+    "classification": "marco comunitario de Israel",
+    "certainty": "audiencia exacta no establecida aquí",
+    "sourceUrl": "https://bible.usccb.org/bible/joshua/0"
+  }
+}
+

@@ -1,0 +1,332 @@
+{
+  "slug": "judas",
+  "order": 72,
+  "title": "Judas",
+  "group": "Cartas católicas",
+  "testament": "Nuevo Testamento",
+  "testamentShort": "NT",
+  "status": "contenido-inicial",
+  "summary": "Llama a conservar la fe recibida y usa ejemplos y tradiciones antiguas.",
+  "role": "Recurre a textos y tradiciones judías conocidos por sus destinatarios.",
+  "context": "La carta combate enseñanzas que considera destructivas y alude a tradiciones judías conocidas por sus destinatarios, incluida una tradición sobre Henoc. El autor se identifica como Judas, hermano de Santiago; fecha y contexto exactos son inciertos.",
+  "question": "¿Cómo reconoce el autor la enseñanza que amenaza a la comunidad?",
+  "sourceUrl": "https://bible.usccb.org/bible/jude/0",
+  "reviewStatus": "borrador-editorial",
+  "sections": [
+    {
+      "id": "panorama",
+      "title": "Panorama del libro"
+    },
+    {
+      "id": "lugar-en-la-biblia",
+      "title": "Su lugar en la Biblia"
+    },
+    {
+      "id": "contexto",
+      "title": "Contexto y lectura"
+    },
+    {
+      "id": "lectura-guiada",
+      "title": "Lectura guiada"
+    },
+    {
+      "id": "encuentro",
+      "title": "Encuentro en grupo"
+    },
+    {
+      "id": "autor-y-destinatarios",
+      "title": "Autoría y destinatarios"
+    }
+  ],
+  "levels": [
+    {
+      "id": "descubrir",
+      "title": "Descubrir",
+      "subtitle": "Una primera mirada",
+      "audience": "Lectura inicial o en grupo",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "¿De qué trata?",
+          "text": "Llama a conservar la fe recibida y usa ejemplos y tradiciones antiguas.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "¿Por qué importa?",
+          "text": "Recurre a textos y tradiciones judías conocidos por sus destinatarios.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Una clave para leer",
+          "text": "La carta combate enseñanzas que considera destructivas y alude a tradiciones judías conocidas por sus destinatarios, incluida una tradición sobre Henoc. El autor se identifica como Judas, hermano de Santiago; fecha y contexto exactos son inciertos.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta para conversar",
+          "text": "¿Cómo reconoce el autor la enseñanza que amenaza a la comunidad?",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "En grupo o en familia: lean el panorama y compartan qué palabra o tema les llamó la atención. Después conversen: ¿Cómo reconoce el autor la enseñanza que amenaza a la comunidad? Cada persona proponga una acción concreta inspirada por la lectura.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: El título y la tradición vinculan la carta con Judas. La identificación histórica del autor se debe distinguir del nombre transmitido por la tradición. Destinatarios: El saludo presenta como destinatarios a cristianos llamados a conservar la fe, según el saludo (Jds 1).",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Judas (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comprender",
+      "title": "Comprender",
+      "subtitle": "Leer en su contexto",
+      "audience": "Estudio personal o comunitario",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Tesis de lectura",
+          "text": "Llama a conservar la fe recibida y usa ejemplos y tradiciones antiguas. Esta síntesis orienta la lectura; conviene comprobarla en el texto completo y atender a sus distintas voces y unidades.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Función dentro del canon",
+          "text": "Recurre a textos y tradiciones judías conocidos por sus destinatarios. Observa cómo este lugar en la secuencia bíblica dialoga con los libros que lo preceden y lo siguen, sin borrar la perspectiva propia de cada escrito.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Contexto histórico y literario",
+          "text": "La carta combate enseñanzas que considera destructivas y alude a tradiciones judías conocidas por sus destinatarios, incluida una tradición sobre Henoc. El autor se identifica como Judas, hermano de Santiago; fecha y contexto exactos son inciertos. Para cada pasaje, identifica quién habla, a quién, en qué género y dentro de qué unidad literaria. Las fechas y reconstrucciones deben distinguirse de lo que el texto afirma explícitamente.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Itinerario de lectura",
+          "text": "1. Lee una unidad completa del libro. 2. Anota repeticiones, cambios de escena y palabras clave. 3. Responde: ¿Cómo reconoce el autor la enseñanza que amenaza a la comunidad? 4. Contrasta tu lectura con una introducción y las notas de una Biblia católica.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Encuentro sugerido (30–45 min): lean una unidad completa del libro; en parejas observen voces, estructura y contexto; reúnan sus observaciones y conversen: ¿Cómo reconoce el autor la enseñanza que amenaza a la comunidad? Cierren distinguiendo lo que el texto dice de lo que ustedes infieren.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: El título y la tradición vinculan la carta con Judas. La identificación histórica del autor se debe distinguir del nombre transmitido por la tradición. Destinatarios: El saludo presenta como destinatarios a cristianos llamados a conservar la fe, según el saludo (Jds 1).",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Judas (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar",
+      "title": "Investigar",
+      "subtitle": "Preguntar y contrastar",
+      "audience": "Lectores que desean profundizar",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Delimitación del problema",
+          "text": "Punto de partida: Llama a conservar la fe recibida y usa ejemplos y tradiciones antiguas. Formula una pregunta concreta sobre la forma final del libro, su estructura, vocabulario o recepción. No conviertas una síntesis panorámica en una conclusión sobre autoría o fecha.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Lectura canónica",
+          "text": "Recurre a textos y tradiciones judías conocidos por sus destinatarios. Examina qué conexiones con otros libros están explícitas en el texto y cuáles pertenecen a su recepción posterior. Registra el criterio usado para cada relación.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Método y cautelas",
+          "text": "La carta combate enseñanzas que considera destructivas y alude a tradiciones judías conocidas por sus destinatarios, incluida una tradición sobre Henoc. El autor se identifica como Judas, hermano de Santiago; fecha y contexto exactos son inciertos. Separa observación textual, interpretación teológica y reconstrucción histórica. Contrasta la lectura literaria de la forma final con las hipótesis históricas disponibles; presenta como debatible aquello que no tiene consenso.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta de investigación",
+          "text": "¿Cómo reconoce el autor la enseñanza que amenaza a la comunidad? ¿Qué evidencia del propio texto apoya cada respuesta? ¿Qué interpretación alternativa es posible? Consulta Dei Verbum 12 y contrasta la introducción editorial citada, que no equivale por sí sola a doctrina de la Iglesia.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Taller de lectura: formulen una pregunta sobre el libro, recojan evidencias del texto y comparen dos explicaciones posibles. Usen esta pregunta como punto de partida: ¿Cómo reconoce el autor la enseñanza que amenaza a la comunidad? Registren qué fuente respalda cada conclusión y qué queda abierto.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Judas",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: El título y la tradición vinculan la carta con Judas. La identificación histórica del autor se debe distinguir del nombre transmitido por la tradición. Destinatarios: El saludo presenta como destinatarios a cristianos llamados a conservar la fe, según el saludo (Jds 1).",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Judas (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/jude/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorship": {
+    "claim": "El título y la tradición vinculan la carta con Judas. La identificación histórica del autor se debe distinguir del nombre transmitido por la tradición.",
+    "classification": "atribución tradicional",
+    "certainty": "requiere matiz histórico",
+    "sourceUrl": "https://bible.usccb.org/bible/jude/0"
+  },
+  "audience": {
+    "claim": "El saludo presenta como destinatarios a cristianos llamados a conservar la fe, según el saludo (Jds 1).",
+    "classification": "destinatario indicado por el texto",
+    "certainty": "la identificación histórica de la comunidad puede requerir matiz",
+    "sourceUrl": "https://bible.usccb.org/bible/jude/0"
+  }
+}
+

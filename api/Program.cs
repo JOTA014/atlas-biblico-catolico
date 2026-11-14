@@ -1,85 +1,76 @@
 using System.Text.Json;
-using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
-builder.Services.ConfigureHttpJsonOptions(options =>
-{
-    options.SerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
-    options.SerializerOptions.Converters.Add(new JsonStringEnumConverter(JsonNamingPolicy.CamelCase));
-});
-
-var allowedOrigins = builder.Configuration.GetSection("Cors:AllowedOrigins").Get<string[]>() ?? [];
-builder.Services.AddCors(options => options.AddDefaultPolicy(policy =>
-{
-    if (allowedOrigins.Length > 0)
-        policy.WithOrigins(allowedOrigins).AllowAnyHeader().AllowAnyMethod();
-}));
 
 var app = builder.Build();
-app.UseCors();
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
-var jsonOptions = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
-var booksPath = Path.Combine(AppContext.BaseDirectory, "books.json");
-var books = JsonSerializer.Deserialize<List<Book>>(await File.ReadAllTextAsync(booksPath), jsonOptions) ?? [];
+var contentPath = Path.Combine(AppContext.BaseDirectory, "content");
+using var catalogDocument = JsonDocument.Parse(await File.ReadAllTextAsync(Path.Combine(contentPath, "atlas.json")));
+var catalog = catalogDocument.RootElement.Clone();
+var booksPath = Path.Combine(contentPath, "books");
+var books = Directory.GetFiles(booksPath, "*.json")
+    .Select(ReadJson)
+    .OrderBy(book => book.GetProperty("order").GetInt32())
+    .ToArray();
 
+app.MapGet("/api/health", () => Results.Ok(new { status = "ok" }));
 app.MapGet("/api/overview", () => Results.Ok(new
 {
-    title = "Mapa bíblico católico",
-    totalBooks = books.Count,
-    oldTestamentBooks = books.Count(book => book.Testament == "Antiguo Testamento"),
-    newTestamentBooks = books.Count(book => book.Testament == "Nuevo Testamento"),
-    readingCriteria = new[]
-    {
-        "Atender a la intención del autor, su época y el género literario.",
-        "Leer cada pasaje en el contenido y la unidad de toda la Escritura.",
-        "Leer en la Tradición viva y la analogía de la fe de la Iglesia."
-    }
+    title = catalog.GetProperty("title").GetString(),
+    totalBooks = catalog.GetProperty("counts").GetProperty("total").GetInt32(),
+    oldTestamentBooks = catalog.GetProperty("counts").GetProperty("oldTestament").GetInt32(),
+    newTestamentBooks = catalog.GetProperty("counts").GetProperty("newTestament").GetInt32(),
+    edition = catalog.GetProperty("edition").GetString()
 }));
-
+app.MapGet("/api/atlas", () => Results.Ok(new
+{
+    title = catalog.GetProperty("title"),
+    version = catalog.GetProperty("version"),
+    edition = catalog.GetProperty("edition"),
+    disclaimer = catalog.GetProperty("disclaimer"),
+    counts = catalog.GetProperty("counts"),
+    editorialCriteria = catalog.GetProperty("editorialCriteria"),
+    sources = catalog.GetProperty("sources"),
+    books
+}));
+app.MapGet("/api/sources", () => Results.Ok(catalog.GetProperty("sources")));
 app.MapGet("/api/books", (string? q, string? group, string? testament) =>
 {
-    IEnumerable<Book> result = books;
+    IEnumerable<JsonElement> result = books;
     if (!string.IsNullOrWhiteSpace(q))
-        result = result.Where(book => string.Join(' ', book.Title, book.Group, book.Summary, book.Role)
+        result = result.Where(book => string.Join(' ', Get(book, "title"), Get(book, "group"), Get(book, "summary"), Get(book, "role"))
             .Contains(q.Trim(), StringComparison.CurrentCultureIgnoreCase));
     if (!string.IsNullOrWhiteSpace(group))
-        result = result.Where(book => book.Group.Equals(group, StringComparison.CurrentCultureIgnoreCase));
+        result = result.Where(book => Get(book, "group").Equals(group, StringComparison.CurrentCultureIgnoreCase));
     if (!string.IsNullOrWhiteSpace(testament))
-        result = result.Where(book => book.Testament.Equals(testament, StringComparison.CurrentCultureIgnoreCase));
-    return Results.Ok(result);
+        result = result.Where(book => Get(book, "testament").Equals(testament, StringComparison.CurrentCultureIgnoreCase));
+    return Results.Ok(result.ToArray());
 });
-
 app.MapGet("/api/books/{slug}", (string slug) =>
-    books.FirstOrDefault(book => book.Slug.Equals(slug, StringComparison.OrdinalIgnoreCase)) is { } book
+    books.FirstOrDefault(book => Get(book, "slug").Equals(slug, StringComparison.OrdinalIgnoreCase)) is { ValueKind: not JsonValueKind.Undefined } book
         ? Results.Ok(book)
         : Results.NotFound());
-
-app.MapGet("/api/timeline", () => Results.Ok(new[]
+app.MapGet("/api/books/{slug}/levels/{levelId}", (string slug, string levelId) =>
 {
-    new TimelineItem("Segundo milenio a. C. · marco tradicional", "Ancestros y éxodo", "Génesis–Deuteronomio narran origen, ancestros, salida de Egipto y alianza. Las fechas y detalles históricos se estudian y debaten."),
-    new TimelineItem("c. 1000–586 a. C.", "Reinos y profetas", "Monarquía, división entre Israel y Judá, profetas y caída de Jerusalén ante Babilonia en 586 a. C."),
-    new TimelineItem("539–63 a. C.", "Exilio, retorno y nuevos imperios", "Dominio persa, retorno y reconstrucción del Templo; después, expansión helenística y crisis que enmarca 1–2 Macabeos."),
-    new TimelineItem("c. 6 a. C.–100 d. C.", "Jesús y las primeras comunidades", "Jesús vive bajo dominio romano; luego surgen comunidades cristianas. La mayoría de los escritos del Nuevo Testamento se compone durante el siglo I; algunas dataciones se discuten en torno al cambio de siglo o a inicios del II.")
-}));
-
-app.MapGet("/api/sources", () => Results.Ok(new[]
-{
-    new SourceItem("Catecismo de la Iglesia Católica, 101–141", "https://www.vatican.va/archive/catechism_sp/p1s1c2a3_sp.html", "Inspiración, interpretación, géneros, canon y relación entre los Testamentos."),
-    new SourceItem("Concilio Vaticano II, Dei Verbum", "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html", "Constitución sobre la revelación divina; en especial, núm. 12 sobre interpretación y géneros literarios."),
-    new SourceItem("Pontificia Comisión Bíblica", "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_doc_index.htm", "Incluye La interpretación de la Biblia en la Iglesia (1993) y El pueblo judío y sus Escrituras sagradas en la Biblia cristiana (2001)."),
-    new SourceItem("USCCB: Biblia, introducciones y notas por libro", "https://bible.usccb.org/bible", "Índice de los 73 libros con introducciones y notas editoriales católicas, principalmente en inglés."),
-    new SourceItem("Material de referencia: Mapas de la Palabra", "https://www.mapasdelapalabra.com/", "La página anuncia fichas de los 73 libros, panorama, cronología y diario espiritual; también usa la expresión «método APROBADO» sin identificar en esa página a la autoridad que lo habría aprobado. Son afirmaciones promocionales y no validan el contenido interno del descargable.")
-}));
+    var book = books.FirstOrDefault(item => Get(item, "slug").Equals(slug, StringComparison.OrdinalIgnoreCase));
+    if (book.ValueKind == JsonValueKind.Undefined) return Results.NotFound();
+    var level = book.GetProperty("levels").EnumerateArray()
+        .FirstOrDefault(item => Get(item, "id").Equals(levelId, StringComparison.OrdinalIgnoreCase));
+    return level.ValueKind == JsonValueKind.Undefined ? Results.NotFound() : Results.Ok(level);
+});
 
 app.MapFallbackToFile("index.html");
 app.Run();
 
-record Book(string Slug, string Title, string Group, string Testament, string Summary, string Role, string Context, string Question, string SourceUrl);
-record TimelineItem(string Period, string Title, string Description);
-record SourceItem(string Title, string Url, string Description);
+static string Get(JsonElement item, string property) => item.TryGetProperty(property, out var value) ? value.GetString() ?? "" : "";
 
+static JsonElement ReadJson(string path)
+{
+    using var document = JsonDocument.Parse(File.ReadAllText(path));
+    return document.RootElement.Clone();
+}
 

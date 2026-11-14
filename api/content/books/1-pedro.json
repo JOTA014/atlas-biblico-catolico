@@ -1,0 +1,332 @@
+{
+  "slug": "1-pedro",
+  "order": 67,
+  "title": "1 Pedro",
+  "group": "Cartas católicas",
+  "testament": "Nuevo Testamento",
+  "testamentShort": "NT",
+  "status": "contenido-inicial",
+  "summary": "Anima a comunidades vulnerables a sostener esperanza y conducta fiel.",
+  "role": "Usa el lenguaje de peregrinación y pertenencia para comunidades dispersas en Asia Menor.",
+  "context": "Se dirige a comunidades de Asia Menor que viven como forasteras y afrontan hostilidad social. La imagen de esperanza y resistencia es central; la relación exacta del escrito con el apóstol Pedro se discute.",
+  "question": "¿Cómo propone el texto responder al sufrimiento sin reproducir el mal?",
+  "sourceUrl": "https://bible.usccb.org/bible/1peter/0",
+  "reviewStatus": "borrador-editorial",
+  "sections": [
+    {
+      "id": "panorama",
+      "title": "Panorama del libro"
+    },
+    {
+      "id": "lugar-en-la-biblia",
+      "title": "Su lugar en la Biblia"
+    },
+    {
+      "id": "contexto",
+      "title": "Contexto y lectura"
+    },
+    {
+      "id": "lectura-guiada",
+      "title": "Lectura guiada"
+    },
+    {
+      "id": "encuentro",
+      "title": "Encuentro en grupo"
+    },
+    {
+      "id": "autor-y-destinatarios",
+      "title": "Autoría y destinatarios"
+    }
+  ],
+  "levels": [
+    {
+      "id": "descubrir",
+      "title": "Descubrir",
+      "subtitle": "Una primera mirada",
+      "audience": "Lectura inicial o en grupo",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "¿De qué trata?",
+          "text": "Anima a comunidades vulnerables a sostener esperanza y conducta fiel.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "¿Por qué importa?",
+          "text": "Usa el lenguaje de peregrinación y pertenencia para comunidades dispersas en Asia Menor.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Una clave para leer",
+          "text": "Se dirige a comunidades de Asia Menor que viven como forasteras y afrontan hostilidad social. La imagen de esperanza y resistencia es central; la relación exacta del escrito con el apóstol Pedro se discute.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta para conversar",
+          "text": "¿Cómo propone el texto responder al sufrimiento sin reproducir el mal?",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "En grupo o en familia: lean el panorama y compartan qué palabra o tema les llamó la atención. Después conversen: ¿Cómo propone el texto responder al sufrimiento sin reproducir el mal? Cada persona proponga una acción concreta inspirada por la lectura.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: El título y la tradición vinculan la carta con Pedro. La identificación histórica del autor se debe distinguir del nombre transmitido por la tradición. Destinatarios: El saludo presenta como destinatarios a comunidades de varias provincias de Asia Menor nombradas en el saludo (1 Pe 1,1).",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de 1 Pedro (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comprender",
+      "title": "Comprender",
+      "subtitle": "Leer en su contexto",
+      "audience": "Estudio personal o comunitario",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Tesis de lectura",
+          "text": "Anima a comunidades vulnerables a sostener esperanza y conducta fiel. Esta síntesis orienta la lectura; conviene comprobarla en el texto completo y atender a sus distintas voces y unidades.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Función dentro del canon",
+          "text": "Usa el lenguaje de peregrinación y pertenencia para comunidades dispersas en Asia Menor. Observa cómo este lugar en la secuencia bíblica dialoga con los libros que lo preceden y lo siguen, sin borrar la perspectiva propia de cada escrito.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Contexto histórico y literario",
+          "text": "Se dirige a comunidades de Asia Menor que viven como forasteras y afrontan hostilidad social. La imagen de esperanza y resistencia es central; la relación exacta del escrito con el apóstol Pedro se discute. Para cada pasaje, identifica quién habla, a quién, en qué género y dentro de qué unidad literaria. Las fechas y reconstrucciones deben distinguirse de lo que el texto afirma explícitamente.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Itinerario de lectura",
+          "text": "1. Lee una unidad completa del libro. 2. Anota repeticiones, cambios de escena y palabras clave. 3. Responde: ¿Cómo propone el texto responder al sufrimiento sin reproducir el mal? 4. Contrasta tu lectura con una introducción y las notas de una Biblia católica.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Encuentro sugerido (30–45 min): lean una unidad completa del libro; en parejas observen voces, estructura y contexto; reúnan sus observaciones y conversen: ¿Cómo propone el texto responder al sufrimiento sin reproducir el mal? Cierren distinguiendo lo que el texto dice de lo que ustedes infieren.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: El título y la tradición vinculan la carta con Pedro. La identificación histórica del autor se debe distinguir del nombre transmitido por la tradición. Destinatarios: El saludo presenta como destinatarios a comunidades de varias provincias de Asia Menor nombradas en el saludo (1 Pe 1,1).",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de 1 Pedro (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar",
+      "title": "Investigar",
+      "subtitle": "Preguntar y contrastar",
+      "audience": "Lectores que desean profundizar",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Delimitación del problema",
+          "text": "Punto de partida: Anima a comunidades vulnerables a sostener esperanza y conducta fiel. Formula una pregunta concreta sobre la forma final del libro, su estructura, vocabulario o recepción. No conviertas una síntesis panorámica en una conclusión sobre autoría o fecha.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Lectura canónica",
+          "text": "Usa el lenguaje de peregrinación y pertenencia para comunidades dispersas en Asia Menor. Examina qué conexiones con otros libros están explícitas en el texto y cuáles pertenecen a su recepción posterior. Registra el criterio usado para cada relación.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Método y cautelas",
+          "text": "Se dirige a comunidades de Asia Menor que viven como forasteras y afrontan hostilidad social. La imagen de esperanza y resistencia es central; la relación exacta del escrito con el apóstol Pedro se discute. Separa observación textual, interpretación teológica y reconstrucción histórica. Contrasta la lectura literaria de la forma final con las hipótesis históricas disponibles; presenta como debatible aquello que no tiene consenso.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta de investigación",
+          "text": "¿Cómo propone el texto responder al sufrimiento sin reproducir el mal? ¿Qué evidencia del propio texto apoya cada respuesta? ¿Qué interpretación alternativa es posible? Consulta Dei Verbum 12 y contrasta la introducción editorial citada, que no equivale por sí sola a doctrina de la Iglesia.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Taller de lectura: formulen una pregunta sobre el libro, recojan evidencias del texto y comparen dos explicaciones posibles. Usen esta pregunta como punto de partida: ¿Cómo propone el texto responder al sufrimiento sin reproducir el mal? Registren qué fuente respalda cada conclusión y qué queda abierto.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de 1 Pedro",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: El título y la tradición vinculan la carta con Pedro. La identificación histórica del autor se debe distinguir del nombre transmitido por la tradición. Destinatarios: El saludo presenta como destinatarios a comunidades de varias provincias de Asia Menor nombradas en el saludo (1 Pe 1,1).",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de 1 Pedro (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/1peter/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorship": {
+    "claim": "El título y la tradición vinculan la carta con Pedro. La identificación histórica del autor se debe distinguir del nombre transmitido por la tradición.",
+    "classification": "atribución tradicional",
+    "certainty": "requiere matiz histórico",
+    "sourceUrl": "https://bible.usccb.org/bible/1peter/0"
+  },
+  "audience": {
+    "claim": "El saludo presenta como destinatarios a comunidades de varias provincias de Asia Menor nombradas en el saludo (1 Pe 1,1).",
+    "classification": "destinatario indicado por el texto",
+    "certainty": "la identificación histórica de la comunidad puede requerir matiz",
+    "sourceUrl": "https://bible.usccb.org/bible/1peter/0"
+  }
+}
+

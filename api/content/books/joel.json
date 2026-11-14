@@ -1,0 +1,332 @@
+{
+  "slug": "joel",
+  "order": 36,
+  "title": "Joel",
+  "group": "Profetas",
+  "testament": "Antiguo Testamento",
+  "testamentShort": "AT",
+  "status": "contenido-inicial",
+  "summary": "Una plaga y una liturgia de duelo abren una reflexión sobre el día del Señor y la efusión del Espíritu.",
+  "role": "Hechos 2 relee su promesa del Espíritu en el acontecimiento de Pentecostés.",
+  "context": "Una plaga de langostas y una asamblea litúrgica enmarcan la reflexión sobre el día del Señor y la restauración. La fecha del libro es incierta, por lo que no conviene atarlo a un único episodio histórico.",
+  "question": "¿Cómo cambia el sentido de la calamidad cuando la comunidad vuelve a Dios?",
+  "sourceUrl": "https://bible.usccb.org/bible/joel/0",
+  "reviewStatus": "borrador-editorial",
+  "sections": [
+    {
+      "id": "panorama",
+      "title": "Panorama del libro"
+    },
+    {
+      "id": "lugar-en-la-biblia",
+      "title": "Su lugar en la Biblia"
+    },
+    {
+      "id": "contexto",
+      "title": "Contexto y lectura"
+    },
+    {
+      "id": "lectura-guiada",
+      "title": "Lectura guiada"
+    },
+    {
+      "id": "encuentro",
+      "title": "Encuentro en grupo"
+    },
+    {
+      "id": "autor-y-destinatarios",
+      "title": "Autoría y destinatarios"
+    }
+  ],
+  "levels": [
+    {
+      "id": "descubrir",
+      "title": "Descubrir",
+      "subtitle": "Una primera mirada",
+      "audience": "Lectura inicial o en grupo",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "¿De qué trata?",
+          "text": "Una plaga y una liturgia de duelo abren una reflexión sobre el día del Señor y la efusión del Espíritu.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "¿Por qué importa?",
+          "text": "Hechos 2 relee su promesa del Espíritu en el acontecimiento de Pentecostés.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Una clave para leer",
+          "text": "Una plaga de langostas y una asamblea litúrgica enmarcan la reflexión sobre el día del Señor y la restauración. La fecha del libro es incierta, por lo que no conviene atarlo a un único episodio histórico.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta para conversar",
+          "text": "¿Cómo cambia el sentido de la calamidad cuando la comunidad vuelve a Dios?",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "En grupo o en familia: lean el panorama y compartan qué palabra o tema les llamó la atención. Después conversen: ¿Cómo cambia el sentido de la calamidad cuando la comunidad vuelve a Dios? Cada persona proponga una acción concreta inspirada por la lectura.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición relaciona Joel con el profeta que da nombre al libro. Esa asociación no determina por sí sola quién reunió o editó todas sus unidades. Destinatarios: El mensaje se dirige a Israel o Judá en las circunstancias que el propio libro describe. La audiencia de cada unidad puede variar.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Joel (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comprender",
+      "title": "Comprender",
+      "subtitle": "Leer en su contexto",
+      "audience": "Estudio personal o comunitario",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Tesis de lectura",
+          "text": "Una plaga y una liturgia de duelo abren una reflexión sobre el día del Señor y la efusión del Espíritu. Esta síntesis orienta la lectura; conviene comprobarla en el texto completo y atender a sus distintas voces y unidades.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Función dentro del canon",
+          "text": "Hechos 2 relee su promesa del Espíritu en el acontecimiento de Pentecostés. Observa cómo este lugar en la secuencia bíblica dialoga con los libros que lo preceden y lo siguen, sin borrar la perspectiva propia de cada escrito.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Contexto histórico y literario",
+          "text": "Una plaga de langostas y una asamblea litúrgica enmarcan la reflexión sobre el día del Señor y la restauración. La fecha del libro es incierta, por lo que no conviene atarlo a un único episodio histórico. Para cada pasaje, identifica quién habla, a quién, en qué género y dentro de qué unidad literaria. Las fechas y reconstrucciones deben distinguirse de lo que el texto afirma explícitamente.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Itinerario de lectura",
+          "text": "1. Lee una unidad completa del libro. 2. Anota repeticiones, cambios de escena y palabras clave. 3. Responde: ¿Cómo cambia el sentido de la calamidad cuando la comunidad vuelve a Dios? 4. Contrasta tu lectura con una introducción y las notas de una Biblia católica.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Encuentro sugerido (30–45 min): lean una unidad completa del libro; en parejas observen voces, estructura y contexto; reúnan sus observaciones y conversen: ¿Cómo cambia el sentido de la calamidad cuando la comunidad vuelve a Dios? Cierren distinguiendo lo que el texto dice de lo que ustedes infieren.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición relaciona Joel con el profeta que da nombre al libro. Esa asociación no determina por sí sola quién reunió o editó todas sus unidades. Destinatarios: El mensaje se dirige a Israel o Judá en las circunstancias que el propio libro describe. La audiencia de cada unidad puede variar.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Joel (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar",
+      "title": "Investigar",
+      "subtitle": "Preguntar y contrastar",
+      "audience": "Lectores que desean profundizar",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Delimitación del problema",
+          "text": "Punto de partida: Una plaga y una liturgia de duelo abren una reflexión sobre el día del Señor y la efusión del Espíritu. Formula una pregunta concreta sobre la forma final del libro, su estructura, vocabulario o recepción. No conviertas una síntesis panorámica en una conclusión sobre autoría o fecha.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Lectura canónica",
+          "text": "Hechos 2 relee su promesa del Espíritu en el acontecimiento de Pentecostés. Examina qué conexiones con otros libros están explícitas en el texto y cuáles pertenecen a su recepción posterior. Registra el criterio usado para cada relación.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Método y cautelas",
+          "text": "Una plaga de langostas y una asamblea litúrgica enmarcan la reflexión sobre el día del Señor y la restauración. La fecha del libro es incierta, por lo que no conviene atarlo a un único episodio histórico. Separa observación textual, interpretación teológica y reconstrucción histórica. Contrasta la lectura literaria de la forma final con las hipótesis históricas disponibles; presenta como debatible aquello que no tiene consenso.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta de investigación",
+          "text": "¿Cómo cambia el sentido de la calamidad cuando la comunidad vuelve a Dios? ¿Qué evidencia del propio texto apoya cada respuesta? ¿Qué interpretación alternativa es posible? Consulta Dei Verbum 12 y contrasta la introducción editorial citada, que no equivale por sí sola a doctrina de la Iglesia.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Taller de lectura: formulen una pregunta sobre el libro, recojan evidencias del texto y comparen dos explicaciones posibles. Usen esta pregunta como punto de partida: ¿Cómo cambia el sentido de la calamidad cuando la comunidad vuelve a Dios? Registren qué fuente respalda cada conclusión y qué queda abierto.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Joel",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición relaciona Joel con el profeta que da nombre al libro. Esa asociación no determina por sí sola quién reunió o editó todas sus unidades. Destinatarios: El mensaje se dirige a Israel o Judá en las circunstancias que el propio libro describe. La audiencia de cada unidad puede variar.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Joel (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/joel/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorship": {
+    "claim": "La tradición relaciona Joel con el profeta que da nombre al libro. Esa asociación no determina por sí sola quién reunió o editó todas sus unidades.",
+    "classification": "tradición profética",
+    "certainty": "la forma final requiere estudio",
+    "sourceUrl": "https://bible.usccb.org/bible/joel/0"
+  },
+  "audience": {
+    "claim": "El mensaje se dirige a Israel o Judá en las circunstancias que el propio libro describe. La audiencia de cada unidad puede variar.",
+    "classification": "marco profético",
+    "certainty": "comprobar el contexto de cada unidad",
+    "sourceUrl": "https://bible.usccb.org/bible/joel/0"
+  }
+}
+

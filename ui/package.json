@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "ng serve --proxy-config proxy.conf.json --host 0.0.0.0",
-    "build": "ng build"
+    "build": "ng build",
+    "test:content": "node --test tests/content.test.mjs"
   },
   "dependencies": {
     "@angular/common": "22.2.6",
@@ -22,3 +23,4 @@
     "typescript": "~6.0.0"
   }
 }
+

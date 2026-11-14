@@ -1,0 +1,332 @@
+{
+  "slug": "lucas",
+  "order": 49,
+  "title": "Lucas",
+  "group": "Evangelios y Hechos",
+  "testament": "Nuevo Testamento",
+  "testamentShort": "NT",
+  "status": "contenido-inicial",
+  "summary": "Evangelio de misericordia, oración y salvación que continúa en los Hechos de los Apóstoles.",
+  "role": "Lucas y Hechos forman una obra en dos volúmenes que sigue el movimiento de Jerusalén hacia las naciones.",
+  "context": "Es la primera parte de una obra que continúa en Hechos y se dirige a un lector llamado Teófilo. En un mundo grecorromano, narra el camino de Jesús desde Galilea a Jerusalén y abre la misión a todos los pueblos.",
+  "question": "¿Quiénes reciben atención o quedan integrados en la misión?",
+  "sourceUrl": "https://bible.usccb.org/bible/luke/0",
+  "reviewStatus": "borrador-editorial",
+  "sections": [
+    {
+      "id": "panorama",
+      "title": "Panorama del libro"
+    },
+    {
+      "id": "lugar-en-la-biblia",
+      "title": "Su lugar en la Biblia"
+    },
+    {
+      "id": "contexto",
+      "title": "Contexto y lectura"
+    },
+    {
+      "id": "lectura-guiada",
+      "title": "Lectura guiada"
+    },
+    {
+      "id": "encuentro",
+      "title": "Encuentro en grupo"
+    },
+    {
+      "id": "autor-y-destinatarios",
+      "title": "Autoría y destinatarios"
+    }
+  ],
+  "levels": [
+    {
+      "id": "descubrir",
+      "title": "Descubrir",
+      "subtitle": "Una primera mirada",
+      "audience": "Lectura inicial o en grupo",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "¿De qué trata?",
+          "text": "Evangelio de misericordia, oración y salvación que continúa en los Hechos de los Apóstoles.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "¿Por qué importa?",
+          "text": "Lucas y Hechos forman una obra en dos volúmenes que sigue el movimiento de Jerusalén hacia las naciones.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Una clave para leer",
+          "text": "Es la primera parte de una obra que continúa en Hechos y se dirige a un lector llamado Teófilo. En un mundo grecorromano, narra el camino de Jesús desde Galilea a Jerusalén y abre la misión a todos los pueblos.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta para conversar",
+          "text": "¿Quiénes reciben atención o quedan integrados en la misión?",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "En grupo o en familia: lean el panorama y compartan qué palabra o tema les llamó la atención. Después conversen: ¿Quiénes reciben atención o quedan integrados en la misión? Cada persona proponga una acción concreta inspirada por la lectura.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición cristiana atribuye este Evangelio a Lucas. El título tradicional conserva esa atribución; no equivale a una firma explícita del autor dentro del relato. Destinatarios: El prólogo nombra a Teófilo y ofrece certeza sobre la enseñanza recibida (Lc 1,1–4); la obra también se dirige a lectores como él.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Lucas (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comprender",
+      "title": "Comprender",
+      "subtitle": "Leer en su contexto",
+      "audience": "Estudio personal o comunitario",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Tesis de lectura",
+          "text": "Evangelio de misericordia, oración y salvación que continúa en los Hechos de los Apóstoles. Esta síntesis orienta la lectura; conviene comprobarla en el texto completo y atender a sus distintas voces y unidades.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Función dentro del canon",
+          "text": "Lucas y Hechos forman una obra en dos volúmenes que sigue el movimiento de Jerusalén hacia las naciones. Observa cómo este lugar en la secuencia bíblica dialoga con los libros que lo preceden y lo siguen, sin borrar la perspectiva propia de cada escrito.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Contexto histórico y literario",
+          "text": "Es la primera parte de una obra que continúa en Hechos y se dirige a un lector llamado Teófilo. En un mundo grecorromano, narra el camino de Jesús desde Galilea a Jerusalén y abre la misión a todos los pueblos. Para cada pasaje, identifica quién habla, a quién, en qué género y dentro de qué unidad literaria. Las fechas y reconstrucciones deben distinguirse de lo que el texto afirma explícitamente.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Itinerario de lectura",
+          "text": "1. Lee una unidad completa del libro. 2. Anota repeticiones, cambios de escena y palabras clave. 3. Responde: ¿Quiénes reciben atención o quedan integrados en la misión? 4. Contrasta tu lectura con una introducción y las notas de una Biblia católica.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Encuentro sugerido (30–45 min): lean una unidad completa del libro; en parejas observen voces, estructura y contexto; reúnan sus observaciones y conversen: ¿Quiénes reciben atención o quedan integrados en la misión? Cierren distinguiendo lo que el texto dice de lo que ustedes infieren.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición cristiana atribuye este Evangelio a Lucas. El título tradicional conserva esa atribución; no equivale a una firma explícita del autor dentro del relato. Destinatarios: El prólogo nombra a Teófilo y ofrece certeza sobre la enseñanza recibida (Lc 1,1–4); la obra también se dirige a lectores como él.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Lucas (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar",
+      "title": "Investigar",
+      "subtitle": "Preguntar y contrastar",
+      "audience": "Lectores que desean profundizar",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Delimitación del problema",
+          "text": "Punto de partida: Evangelio de misericordia, oración y salvación que continúa en los Hechos de los Apóstoles. Formula una pregunta concreta sobre la forma final del libro, su estructura, vocabulario o recepción. No conviertas una síntesis panorámica en una conclusión sobre autoría o fecha.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Lectura canónica",
+          "text": "Lucas y Hechos forman una obra en dos volúmenes que sigue el movimiento de Jerusalén hacia las naciones. Examina qué conexiones con otros libros están explícitas en el texto y cuáles pertenecen a su recepción posterior. Registra el criterio usado para cada relación.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Método y cautelas",
+          "text": "Es la primera parte de una obra que continúa en Hechos y se dirige a un lector llamado Teófilo. En un mundo grecorromano, narra el camino de Jesús desde Galilea a Jerusalén y abre la misión a todos los pueblos. Separa observación textual, interpretación teológica y reconstrucción histórica. Contrasta la lectura literaria de la forma final con las hipótesis históricas disponibles; presenta como debatible aquello que no tiene consenso.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta de investigación",
+          "text": "¿Quiénes reciben atención o quedan integrados en la misión? ¿Qué evidencia del propio texto apoya cada respuesta? ¿Qué interpretación alternativa es posible? Consulta Dei Verbum 12 y contrasta la introducción editorial citada, que no equivale por sí sola a doctrina de la Iglesia.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Taller de lectura: formulen una pregunta sobre el libro, recojan evidencias del texto y comparen dos explicaciones posibles. Usen esta pregunta como punto de partida: ¿Quiénes reciben atención o quedan integrados en la misión? Registren qué fuente respalda cada conclusión y qué queda abierto.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Lucas",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición cristiana atribuye este Evangelio a Lucas. El título tradicional conserva esa atribución; no equivale a una firma explícita del autor dentro del relato. Destinatarios: El prólogo nombra a Teófilo y ofrece certeza sobre la enseñanza recibida (Lc 1,1–4); la obra también se dirige a lectores como él.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Lucas (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/luke/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorship": {
+    "claim": "La tradición cristiana atribuye este Evangelio a Lucas. El título tradicional conserva esa atribución; no equivale a una firma explícita del autor dentro del relato.",
+    "classification": "atribución tradicional",
+    "certainty": "presentar como tradición, no como firma textual",
+    "sourceUrl": "https://bible.usccb.org/bible/luke/0"
+  },
+  "audience": {
+    "claim": "El prólogo nombra a Teófilo y ofrece certeza sobre la enseñanza recibida (Lc 1,1–4); la obra también se dirige a lectores como él.",
+    "classification": "destinatario nombrado en el prólogo",
+    "certainty": "Teófilo aparece en el texto",
+    "sourceUrl": "https://bible.usccb.org/bible/luke/0"
+  }
+}
+

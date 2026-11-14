@@ -1,0 +1,48 @@
+{
+  "title": "Atlas Bíblico Católico",
+  "version": 1,
+  "edition": "Edición de trabajo · revisión editorial pendiente",
+  "disclaimer": "Material didáctico original en desarrollo. No es una publicación oficial ni cuenta aquí con aprobación eclesial. Las síntesis requieren revisión bíblica especializada; consulta el texto bíblico completo y sus notas.",
+  "counts": {
+    "total": 73,
+    "oldTestament": 46,
+    "newTestament": 27
+  },
+  "editorialCriteria": [
+    "Distinguir texto bíblico, doctrina, tradición y propuesta académica.",
+    "Identificar referencias y el tipo de fuente que las respalda.",
+    "Presentar con cautela las fechas, autorías y reconstrucciones debatidas.",
+    "Leer cada pasaje según su género, contexto y lugar en la unidad de la Escritura."
+  ],
+  "sources": [
+    {
+      "id": "cec-scripture",
+      "title": "Catecismo de la Iglesia Católica, 101–141",
+      "url": "https://www.vatican.va/archive/catechism_sp/p1s1c2a3_sp.html",
+      "kind": "doctrinal",
+      "note": "Inspiración, interpretación, géneros, canon y relación entre los Testamentos."
+    },
+    {
+      "id": "dei-verbum",
+      "title": "Concilio Vaticano II, Dei Verbum 11–12",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html",
+      "kind": "doctrinal",
+      "note": "Criterios católicos para leer la intención, el contexto, los géneros y la unidad de la Escritura."
+    },
+    {
+      "id": "usccb",
+      "title": "USCCB, introducciones y notas bíblicas",
+      "url": "https://bible.usccb.org/bible",
+      "kind": "commentary",
+      "note": "Referencia editorial católica en inglés; sus introducciones y notas son comentarios, no definiciones doctrinales."
+    },
+    {
+      "id": "pcb",
+      "title": "Pontificia Comisión Bíblica, La interpretación de la Biblia en la Iglesia (1993)",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_doc_index_sp.htm",
+      "kind": "ecclesial",
+      "note": "Documento de la Comisión Bíblica Pontificia sobre métodos y aproximaciones de interpretación."
+    }
+  ]
+}
+

@@ -1,0 +1,332 @@
+{
+  "slug": "levitico",
+  "order": 3,
+  "title": "Levítico",
+  "group": "Pentateuco",
+  "testament": "Antiguo Testamento",
+  "testamentShort": "AT",
+  "status": "contenido-inicial",
+  "summary": "Reúne normas rituales, sacerdotales y éticas en torno a santidad, sacrificio, comunidad y cuidado del prójimo.",
+  "role": "Muestra cómo Israel organiza la vida común y el culto alrededor de la santidad de Dios.",
+  "context": "Instrucciones sacerdotales y comunitarias sitúan el culto en el centro de la vida de Israel. Sus leyes rituales, éticas y de pureza pertenecen a un mundo antiguo distinto del actual y requieren leer género y propósito.",
+  "question": "¿Qué problema o relación busca ordenar cada instrucción?",
+  "sourceUrl": "https://bible.usccb.org/bible/leviticus/0",
+  "reviewStatus": "borrador-editorial",
+  "sections": [
+    {
+      "id": "panorama",
+      "title": "Panorama del libro"
+    },
+    {
+      "id": "lugar-en-la-biblia",
+      "title": "Su lugar en la Biblia"
+    },
+    {
+      "id": "contexto",
+      "title": "Contexto y lectura"
+    },
+    {
+      "id": "lectura-guiada",
+      "title": "Lectura guiada"
+    },
+    {
+      "id": "encuentro",
+      "title": "Encuentro en grupo"
+    },
+    {
+      "id": "autor-y-destinatarios",
+      "title": "Autoría y destinatarios"
+    }
+  ],
+  "levels": [
+    {
+      "id": "descubrir",
+      "title": "Descubrir",
+      "subtitle": "Una primera mirada",
+      "audience": "Lectura inicial o en grupo",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "¿De qué trata?",
+          "text": "Reúne normas rituales, sacerdotales y éticas en torno a santidad, sacrificio, comunidad y cuidado del prójimo.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "¿Por qué importa?",
+          "text": "Muestra cómo Israel organiza la vida común y el culto alrededor de la santidad de Dios.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Una clave para leer",
+          "text": "Instrucciones sacerdotales y comunitarias sitúan el culto en el centro de la vida de Israel. Sus leyes rituales, éticas y de pureza pertenecen a un mundo antiguo distinto del actual y requieren leer género y propósito.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta para conversar",
+          "text": "¿Qué problema o relación busca ordenar cada instrucción?",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "En grupo o en familia: lean el panorama y compartan qué palabra o tema les llamó la atención. Después conversen: ¿Qué problema o relación busca ordenar cada instrucción? Cada persona proponga una acción concreta inspirada por la lectura.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición judía y cristiana relaciona la Torá con Moisés. La composición y transmisión de sus libros es objeto de estudio; esta ficha no afirma que un solo autor literario redactara su forma final. Destinatarios: Su horizonte lector es el pueblo de Israel, al que ofrece memoria, ley y alianza. La comunidad concreta y el momento de la forma final no se fijan aquí como certeza.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Levítico (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comprender",
+      "title": "Comprender",
+      "subtitle": "Leer en su contexto",
+      "audience": "Estudio personal o comunitario",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Tesis de lectura",
+          "text": "Reúne normas rituales, sacerdotales y éticas en torno a santidad, sacrificio, comunidad y cuidado del prójimo. Esta síntesis orienta la lectura; conviene comprobarla en el texto completo y atender a sus distintas voces y unidades.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Función dentro del canon",
+          "text": "Muestra cómo Israel organiza la vida común y el culto alrededor de la santidad de Dios. Observa cómo este lugar en la secuencia bíblica dialoga con los libros que lo preceden y lo siguen, sin borrar la perspectiva propia de cada escrito.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Contexto histórico y literario",
+          "text": "Instrucciones sacerdotales y comunitarias sitúan el culto en el centro de la vida de Israel. Sus leyes rituales, éticas y de pureza pertenecen a un mundo antiguo distinto del actual y requieren leer género y propósito. Para cada pasaje, identifica quién habla, a quién, en qué género y dentro de qué unidad literaria. Las fechas y reconstrucciones deben distinguirse de lo que el texto afirma explícitamente.",
+          "kind": "sintesis-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Itinerario de lectura",
+          "text": "1. Lee una unidad completa del libro. 2. Anota repeticiones, cambios de escena y palabras clave. 3. Responde: ¿Qué problema o relación busca ordenar cada instrucción? 4. Contrasta tu lectura con una introducción y las notas de una Biblia católica.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Encuentro sugerido (30–45 min): lean una unidad completa del libro; en parejas observen voces, estructura y contexto; reúnan sus observaciones y conversen: ¿Qué problema o relación busca ordenar cada instrucción? Cierren distinguiendo lo que el texto dice de lo que ustedes infieren.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición judía y cristiana relaciona la Torá con Moisés. La composición y transmisión de sus libros es objeto de estudio; esta ficha no afirma que un solo autor literario redactara su forma final. Destinatarios: Su horizonte lector es el pueblo de Israel, al que ofrece memoria, ley y alianza. La comunidad concreta y el momento de la forma final no se fijan aquí como certeza.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Levítico (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar",
+      "title": "Investigar",
+      "subtitle": "Preguntar y contrastar",
+      "audience": "Lectores que desean profundizar",
+      "sections": [
+        {
+          "id": "panorama",
+          "title": "Delimitación del problema",
+          "text": "Punto de partida: Reúne normas rituales, sacerdotales y éticas en torno a santidad, sacrificio, comunidad y cuidado del prójimo. Formula una pregunta concreta sobre la forma final del libro, su estructura, vocabulario o recepción. No conviertas una síntesis panorámica en una conclusión sobre autoría o fecha.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lugar-en-la-biblia",
+          "title": "Lectura canónica",
+          "text": "Muestra cómo Israel organiza la vida común y el culto alrededor de la santidad de Dios. Examina qué conexiones con otros libros están explícitas en el texto y cuáles pertenecen a su recepción posterior. Registra el criterio usado para cada relación.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "contexto",
+          "title": "Método y cautelas",
+          "text": "Instrucciones sacerdotales y comunitarias sitúan el culto en el centro de la vida de Israel. Sus leyes rituales, éticas y de pureza pertenecen a un mundo antiguo distinto del actual y requieren leer género y propósito. Separa observación textual, interpretación teológica y reconstrucción histórica. Contrasta la lectura literaria de la forma final con las hipótesis históricas disponibles; presenta como debatible aquello que no tiene consenso.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "lectura-guiada",
+          "title": "Pregunta de investigación",
+          "text": "¿Qué problema o relación busca ordenar cada instrucción? ¿Qué evidencia del propio texto apoya cada respuesta? ¿Qué interpretación alternativa es posible? Consulta Dei Verbum 12 y contrasta la introducción editorial citada, que no equivale por sí sola a doctrina de la Iglesia.",
+          "kind": "actividad-pedagogica",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "encuentro",
+          "title": "Encuentro en grupo",
+          "text": "Taller de lectura: formulen una pregunta sobre el libro, recojan evidencias del texto y comparen dos explicaciones posibles. Usen esta pregunta como punto de partida: ¿Qué problema o relación busca ordenar cada instrucción? Registren qué fuente respalda cada conclusión y qué queda abierto.",
+          "kind": "ejercicio-metodologico",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción y notas de Levítico",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        },
+        {
+          "id": "autor-y-destinatarios",
+          "title": "Autoría y destinatarios",
+          "text": "Autoría: La tradición judía y cristiana relaciona la Torá con Moisés. La composición y transmisión de sus libros es objeto de estudio; esta ficha no afirma que un solo autor literario redactara su forma final. Destinatarios: Su horizonte lector es el pueblo de Israel, al que ofrece memoria, ley y alianza. La comunidad concreta y el momento de la forma final no se fijan aquí como certeza.",
+          "kind": "contexto-editorial",
+          "scriptureRefs": [],
+          "sourceRefs": [
+            {
+              "label": "Introducción de Levítico (USCCB, inglés)",
+              "url": "https://bible.usccb.org/bible/leviticus/0",
+              "kind": "commentary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorship": {
+    "claim": "La tradición judía y cristiana relaciona la Torá con Moisés. La composición y transmisión de sus libros es objeto de estudio; esta ficha no afirma que un solo autor literario redactara su forma final.",
+    "classification": "atribución tradicional y estudio de composición",
+    "certainty": "la atribución tradicional no resuelve la composición",
+    "sourceUrl": "https://bible.usccb.org/bible/leviticus/0"
+  },
+  "audience": {
+    "claim": "Su horizonte lector es el pueblo de Israel, al que ofrece memoria, ley y alianza. La comunidad concreta y el momento de la forma final no se fijan aquí como certeza.",
+    "classification": "marco comunitario de Israel",
+    "certainty": "no se precisa una audiencia única",
+    "sourceUrl": "https://bible.usccb.org/bible/leviticus/0"
+  }
+}
+
