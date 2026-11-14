@@ -1,0 +1,732 @@
+[
+  {
+    "slug": "genesis",
+    "title": "Génesis",
+    "group": "Pentateuco",
+    "testament": "Antiguo Testamento",
+    "summary": "Relata creación, humanidad, patriarcas y los comienzos de Israel. Sus relatos fundacionales exploran origen, promesa, bendición, conflicto y providencia.",
+    "role": "Abre la gran secuencia bíblica: creación, ruptura, llamado de Abrahán y familia de Israel.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué repite el relato y qué imagen de Dios, humanidad y promesa construye?"
+  },
+  {
+    "slug": "exodo",
+    "title": "Éxodo",
+    "group": "Pentateuco",
+    "testament": "Antiguo Testamento",
+    "summary": "Narra la liberación de Israel de Egipto, la alianza en el Sinaí y la presencia de Dios en medio del pueblo.",
+    "role": "Éxodo, alianza y santuario se vuelven referencias centrales para profetas y Nuevo Testamento.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo se relacionan liberación, alianza, ley y culto?"
+  },
+  {
+    "slug": "levitico",
+    "title": "Levítico",
+    "group": "Pentateuco",
+    "testament": "Antiguo Testamento",
+    "summary": "Reúne normas rituales, sacerdotales y éticas en torno a santidad, sacrificio, comunidad y cuidado del prójimo.",
+    "role": "Muestra cómo Israel organiza la vida común y el culto alrededor de la santidad de Dios.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué problema o relación busca ordenar cada instrucción?"
+  },
+  {
+    "slug": "numeros",
+    "title": "Números",
+    "group": "Pentateuco",
+    "testament": "Antiguo Testamento",
+    "summary": "Acompaña al pueblo por el desierto entre censos, rebeliones, itinerarios y preparación para entrar en la tierra.",
+    "role": "Conecta el Sinaí con la generación que se acerca a Canaán y recuerda las dificultades del camino.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué tensiones entre confianza, miedo y liderazgo aparecen en el viaje?"
+  },
+  {
+    "slug": "deuteronomio",
+    "title": "Deuteronomio",
+    "group": "Pentateuco",
+    "testament": "Antiguo Testamento",
+    "summary": "Presenta discursos de Moisés que recuerdan la alianza y convocan a elegir la fidelidad antes de entrar en la tierra.",
+    "role": "Relee la ley para una nueva generación y será una fuente importante para la teología deuteronomista.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué significa recordar la liberación al renovar la alianza?"
+  },
+  {
+    "slug": "josue",
+    "title": "Josué",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Narra la entrada en Canaán, la distribución de la tierra y la renovación de la alianza.",
+    "role": "Continúa la promesa de la tierra; sus relatos deben leerse como literatura antigua con propósito teológico.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo representa el libro la promesa, la tierra y sus límites éticos?"
+  },
+  {
+    "slug": "jueces",
+    "title": "Jueces",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Describe ciclos de infidelidad, opresión y liberación antes de la monarquía, con figuras como Débora y Sansón.",
+    "role": "Su patrón repetido interpreta la inestabilidad social y religiosa de un Israel sin rey.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué revela el ciclo sobre liderazgo y violencia?"
+  },
+  {
+    "slug": "rut",
+    "title": "Rut",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Una historia de lealtad entre Rut y Noemí que desemboca en la genealogía de David.",
+    "role": "En una narración familiar, una mujer moabita ocupa un lugar decisivo en la historia de Israel.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo actúan la lealtad, la acogida y la providencia en decisiones cotidianas?"
+  },
+  {
+    "slug": "1-samuel",
+    "title": "1 Samuel",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Relata el final del período de los jueces, la figura de Samuel y el surgimiento de la monarquía con Saúl y David.",
+    "role": "Presenta los riesgos y promesas del poder real, desde una mirada teológica.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué criterios usa el relato para juzgar a un rey?"
+  },
+  {
+    "slug": "2-samuel",
+    "title": "2 Samuel",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Cuenta el reinado de David, la promesa dinástica y las fracturas de su casa.",
+    "role": "La promesa a David será releída en los salmos, los profetas y las esperanzas mesiánicas.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo conviven promesa, pecado, consecuencias y misericordia?"
+  },
+  {
+    "slug": "1-reyes",
+    "title": "1 Reyes",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Empieza con Salomón y la construcción del Templo, y sigue la división del reino y los profetas Elías y Eliseo.",
+    "role": "Explica la división política y evalúa a los gobernantes en relación con la alianza.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué vínculo traza entre poder, culto y justicia?"
+  },
+  {
+    "slug": "2-reyes",
+    "title": "2 Reyes",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Sigue a los reinos de Israel y Judá hasta la caída de Samaria y la destrucción de Jerusalén.",
+    "role": "El exilio aparece como crisis histórica y teológica; la narración termina con una pequeña señal de esperanza.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo interpreta el libro la catástrofe sin reducirla a una sola causa?"
+  },
+  {
+    "slug": "1-cronicas",
+    "title": "1 Crónicas",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Recorre genealogías y presenta el reinado de David con atención al culto y la organización comunitaria.",
+    "role": "Recuenta la historia desde la perspectiva de la comunidad posterior al exilio.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué elige destacar esta memoria y para quién?"
+  },
+  {
+    "slug": "2-cronicas",
+    "title": "2 Crónicas",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Se centra en Salomón, el Templo y los reyes de Judá hasta el exilio y el decreto persa de retorno.",
+    "role": "Complementa Samuel y Reyes con énfasis en culto, reforma y esperanza de restauración.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo presenta el libro la reforma y sus límites?"
+  },
+  {
+    "slug": "esdras",
+    "title": "Esdras",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Describe el retorno de algunos exiliados, la reconstrucción del Templo y la renovación de la comunidad.",
+    "role": "Se sitúa bajo dominio persa y explora la identidad de Judá tras el exilio.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué significa reconstruir una comunidad y quién queda dentro o fuera?"
+  },
+  {
+    "slug": "nehemias",
+    "title": "Nehemías",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Relata la reconstrucción de las murallas de Jerusalén y reformas sociales y religiosas.",
+    "role": "Muestra desafíos políticos y económicos de la provincia persa de Judá.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo se relacionan oración, planificación y justicia social?"
+  },
+  {
+    "slug": "tobias",
+    "title": "Tobías",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Relato sapiencial sobre una familia en la diáspora, la oración, la limosna, la fidelidad y la guía de Rafael.",
+    "role": "Una narración ejemplar enseña sabiduría y esperanza en el contexto de vivir lejos de la tierra ancestral.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué enseña la historia mediante sus personajes y motivos literarios?"
+  },
+  {
+    "slug": "judit",
+    "title": "Judit",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Una viuda valiente salva a su pueblo mediante inteligencia, oración y audacia.",
+    "role": "Usa recursos de relato heroico para reflexionar sobre poder, fidelidad y liberación.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué rasgos hacen de Judit una protagonista inesperada?"
+  },
+  {
+    "slug": "ester",
+    "title": "Ester",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Una mujer judía en la corte persa interviene para evitar la destrucción de su pueblo.",
+    "role": "La versión griega católica contiene pasajes adicionales con referencias explícitas a Dios y la oración.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo opera la providencia cuando el relato parece guardar silencio sobre Dios?"
+  },
+  {
+    "slug": "1-macabeos",
+    "title": "1 Macabeos",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Narra la revuelta macabea y la recuperación del Templo bajo la presión seléucida.",
+    "role": "Ofrece una fuente importante para el período helenístico y la resistencia religiosa judía.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo se representan la fidelidad, la resistencia y el uso de la fuerza?"
+  },
+  {
+    "slug": "2-macabeos",
+    "title": "2 Macabeos",
+    "group": "Libros históricos",
+    "testament": "Antiguo Testamento",
+    "summary": "Recuenta episodios de la persecución y la revuelta, con énfasis en martirio, oración y esperanza de resurrección.",
+    "role": "No es continuación directa de 1 Macabeos: ofrece otra selección y perspectiva de los hechos.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué esperanza sostiene a los personajes ante la persecución?"
+  },
+  {
+    "slug": "job",
+    "title": "Job",
+    "group": "Libros poéticos y sapienciales",
+    "testament": "Antiguo Testamento",
+    "summary": "Diálogo poético sobre el sufrimiento del justo, los límites de las explicaciones y el misterio de Dios.",
+    "role": "Combina marco narrativo y poesía; sus discursos cuestionan respuestas simplistas al dolor.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué explicaciones del sufrimiento cuestiona la voz de Job?"
+  },
+  {
+    "slug": "salmos",
+    "title": "Salmos",
+    "group": "Libros poéticos y sapienciales",
+    "testament": "Antiguo Testamento",
+    "summary": "Colección de oraciones, himnos, lamentos y acciones de gracias para la oración de Israel y de la Iglesia.",
+    "role": "Es un libro poético con voces y situaciones diversas, no un relato lineal.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué cambia entre el lamento inicial y el cierre de cada salmo?"
+  },
+  {
+    "slug": "proverbios",
+    "title": "Proverbios",
+    "group": "Libros poéticos y sapienciales",
+    "testament": "Antiguo Testamento",
+    "summary": "Colecciones de máximas y enseñanzas para formar el juicio y la conducta cotidiana.",
+    "role": "La sabiduría se expresa en dichos breves que requieren discernimiento, no aplicación mecánica.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué verdad práctica expresa el proverbio y qué excepciones reconoce el propio canon?"
+  },
+  {
+    "slug": "eclesiastes-qohelet",
+    "title": "Eclesiastés (Qohelet)",
+    "group": "Libros poéticos y sapienciales",
+    "testament": "Antiguo Testamento",
+    "summary": "Una voz sapiencial examina el tiempo, el trabajo, la muerte, el placer y los límites del conocimiento.",
+    "role": "El término hebreo hebel sugiere vapor o fugacidad; “vanidad” no agota sus matices.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué experiencias llevan al autor a reconocer los límites de la vida humana?"
+  },
+  {
+    "slug": "cantar-de-los-cantares",
+    "title": "Cantar de los Cantares",
+    "group": "Libros poéticos y sapienciales",
+    "testament": "Antiguo Testamento",
+    "summary": "Poemas de deseo y amor entre dos voces; la tradición también lo ha leído en clave espiritual.",
+    "role": "La lectura literal celebra el amor humano; la lectura simbólica se desarrolla dentro de la tradición.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué imágenes corporales y naturales dan fuerza a los poemas?"
+  },
+  {
+    "slug": "sabiduria",
+    "title": "Sabiduría",
+    "group": "Libros poéticos y sapienciales",
+    "testament": "Antiguo Testamento",
+    "summary": "Reflexiona sobre justicia, inmortalidad, sabiduría y la memoria del éxodo.",
+    "role": "Escrito en griego en un entorno judío helenístico; enlaza sabiduría bíblica y diálogo cultural.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo describe la sabiduría y qué contraste hace entre justo e impío?"
+  },
+  {
+    "slug": "siracida-eclesiastico",
+    "title": "Sirácida (Eclesiástico)",
+    "group": "Libros poéticos y sapienciales",
+    "testament": "Antiguo Testamento",
+    "summary": "Enseñanzas de Ben Sirá sobre amistad, familia, trabajo, culto y sabiduría.",
+    "role": "El prólogo informa de una traducción griega realizada por el nieto del autor; el texto refleja tradición judía en diálogo con su época.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo relaciona la sabiduría práctica con la alianza y el culto?"
+  },
+  {
+    "slug": "isaias",
+    "title": "Isaías",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Gran colección profética sobre juicio, justicia, confianza, consuelo y esperanza de restauración.",
+    "role": "Reúne materiales de diferentes momentos; la lectura debe observar cambios de voz y contexto.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Quién necesita consuelo o corrección en cada sección?"
+  },
+  {
+    "slug": "jeremias",
+    "title": "Jeremías",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Voz profética que atraviesa la crisis de Judá, la caída de Jerusalén y la promesa de una alianza renovada.",
+    "role": "Conserva poesía, relatos y confesiones personales en el final del reino de Judá.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo sostiene esperanza el libro sin ocultar la catástrofe?"
+  },
+  {
+    "slug": "lamentaciones",
+    "title": "Lamentaciones",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Cinco poemas de duelo por la destrucción de Jerusalén.",
+    "role": "La forma acróstica ordena el lamento; el libro da voz litúrgica al dolor de una comunidad.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué permite decir el poema que una explicación histórica no alcanza?"
+  },
+  {
+    "slug": "baruc",
+    "title": "Baruc",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Textos de confesión, sabiduría y consuelo asociados a la memoria del exilio.",
+    "role": "En la Biblia católica incluye la Carta de Jeremías como capítulo 6.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo conviven reconocimiento del error y esperanza de retorno?"
+  },
+  {
+    "slug": "ezequiel",
+    "title": "Ezequiel",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Visiones y acciones simbólicas sobre juicio, exilio, responsabilidad y restauración.",
+    "role": "El profeta está entre los deportados en Babilonia; el libro usa imágenes impactantes y lenguaje sacerdotal.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué función cumple la visión o el gesto simbólico en cada pasaje?"
+  },
+  {
+    "slug": "daniel",
+    "title": "Daniel",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Relatos de fidelidad en cortes extranjeras y visiones apocalípticas de reinos y esperanza.",
+    "role": "La edición católica contiene secciones griegas adicionales: Susana, Bel y el Dragón, y el cántico de los jóvenes.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo comunica esperanza el lenguaje simbólico bajo un poder opresor?"
+  },
+  {
+    "slug": "oseas",
+    "title": "Oseas",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Imágenes de matrimonio y familia expresan infidelidad, juicio y amor persistente de Dios.",
+    "role": "La metáfora profética debe leerse con atención a su contexto y sin justificar violencia contra personas reales.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué revela la tensión entre juicio y misericordia?"
+  },
+  {
+    "slug": "joel",
+    "title": "Joel",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Una plaga y una liturgia de duelo abren una reflexión sobre el día del Señor y la efusión del Espíritu.",
+    "role": "Hechos 2 relee su promesa del Espíritu en el acontecimiento de Pentecostés.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo cambia el sentido de la calamidad cuando la comunidad vuelve a Dios?"
+  },
+  {
+    "slug": "amos",
+    "title": "Amós",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Denuncia el lujo y la injusticia mientras proclama que el culto no puede separarse de la justicia.",
+    "role": "Profeta del siglo VIII a. C. que habla al reino del norte en un período de prosperidad desigual.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué relación establece entre adoración y trato al pobre?"
+  },
+  {
+    "slug": "abdias",
+    "title": "Abdías",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Oráculo breve contra Edom relacionado con la caída de Jerusalén.",
+    "role": "Expresa el dolor y las disputas entre pueblos vecinos tras una catástrofe.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Cómo expresa el texto la justicia y qué pregunta deja sobre la venganza?"
+  },
+  {
+    "slug": "jonas",
+    "title": "Jonás",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Relato de un profeta renuente enviado a Nínive y sorprendido por la misericordia de Dios.",
+    "role": "Tiene rasgos de narración didáctica; no debe reducirse a una cronología de viajes.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Por qué Jonás se resiste a la compasión ofrecida a sus enemigos?"
+  },
+  {
+    "slug": "miqueas",
+    "title": "Miqueas",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Denuncia corrupción y anuncia esperanza; contiene la llamada a practicar justicia, amar misericordia y caminar humildemente.",
+    "role": "Voz profética en tiempos de amenaza asiria y desigualdad social.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué poderosos critica y qué esperanza propone para el pueblo?"
+  },
+  {
+    "slug": "nahum",
+    "title": "Nahúm",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Poema contra Nínive que anuncia el fin de la violencia imperial asiria.",
+    "role": "Habla desde la experiencia de pueblos sometidos; su tono vigoroso requiere leer el contexto de opresión.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué significa proclamar justicia frente a un imperio violento?"
+  },
+  {
+    "slug": "habacuc",
+    "title": "Habacuc",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Diálogo sobre la injusticia y el avance babilónico, que termina en una oración de confianza.",
+    "role": "El profeta cuestiona a Dios en vez de ofrecer respuestas fáciles.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué preguntas del profeta permanecen abiertas al final?"
+  },
+  {
+    "slug": "sofonias",
+    "title": "Sofonías",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Anuncia el día del Señor como juicio y purificación, y concluye con imágenes de restauración.",
+    "role": "Su horizonte incluye el reino de Judá antes del exilio; “día del Señor” puede ser juicio y esperanza.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿A quién alcanza el juicio y quiénes forman el resto humilde?"
+  },
+  {
+    "slug": "ageo",
+    "title": "Ageo",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Llama a reconstruir el Templo después del retorno del exilio.",
+    "role": "Se sitúa hacia 520 a. C., en la provincia persa de Judá; la esperanza está ligada a la restauración comunitaria.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué prioridades comunitarias pone en tensión el profeta?"
+  },
+  {
+    "slug": "zacarias",
+    "title": "Zacarías",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Visiones y oráculos animan a la comunidad postexílica y abren horizontes de esperanza.",
+    "role": "Los capítulos 9–14 muestran diferencias de estilo y contexto respecto a la primera parte.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué imágenes sostienen a una comunidad pequeña en tiempos difíciles?"
+  },
+  {
+    "slug": "malaquias",
+    "title": "Malaquías",
+    "group": "Profetas",
+    "testament": "Antiguo Testamento",
+    "summary": "Cuestiona el culto descuidado, la injusticia y la infidelidad; llama a renovar la alianza.",
+    "role": "Su nombre significa “mi mensajero” y puede funcionar como título; cierra la colección de los Doce en el canon cristiano.",
+    "context": "Sitúa el texto en el antiguo Israel y su entorno: culturas vecinas, imperios, exilio, culto y formas literarias. La datación de varios textos y acontecimientos es debatida.",
+    "question": "¿Qué prácticas concretas reclama la renovación de la alianza?"
+  },
+  {
+    "slug": "mateo",
+    "title": "Mateo",
+    "group": "Evangelios y Hechos",
+    "testament": "Nuevo Testamento",
+    "summary": "Presenta a Jesús como Mesías y maestro, enlazando su historia con las Escrituras de Israel.",
+    "role": "Organiza enseñanza en grandes discursos y dialoga intensamente con el Antiguo Testamento.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo cumple o relee Jesús las Escrituras citadas en cada escena?"
+  },
+  {
+    "slug": "marcos",
+    "title": "Marcos",
+    "group": "Evangelios y Hechos",
+    "testament": "Nuevo Testamento",
+    "summary": "Relato ágil de Jesús, el servicio, el secreto mesiánico y el camino hacia la cruz.",
+    "role": "El discipulado se entiende en el camino a Jerusalén y ante la pasión.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué entiende cada personaje por seguir a Jesús?"
+  },
+  {
+    "slug": "lucas",
+    "title": "Lucas",
+    "group": "Evangelios y Hechos",
+    "testament": "Nuevo Testamento",
+    "summary": "Evangelio de misericordia, oración y salvación que continúa en los Hechos de los Apóstoles.",
+    "role": "Lucas y Hechos forman una obra en dos volúmenes que sigue el movimiento de Jerusalén hacia las naciones.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Quiénes reciben atención o quedan integrados en la misión?"
+  },
+  {
+    "slug": "juan",
+    "title": "Juan",
+    "group": "Evangelios y Hechos",
+    "testament": "Nuevo Testamento",
+    "summary": "Evangelio de signos y discursos que invita a creer y tener vida en Jesús.",
+    "role": "Usa símbolos, malentendidos y fiestas judías como estructura teológica.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué revela cada signo y cómo cambia la respuesta de quien lo presencia?"
+  },
+  {
+    "slug": "hechos-de-los-apostoles",
+    "title": "Hechos de los Apóstoles",
+    "group": "Evangelios y Hechos",
+    "testament": "Nuevo Testamento",
+    "summary": "Cuenta el crecimiento de la misión cristiana desde Jerusalén hasta Roma.",
+    "role": "Segunda parte de la obra lucana, con discursos y relatos de viaje.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo cruzan las comunidades fronteras culturales y qué discernimiento exige?"
+  },
+  {
+    "slug": "romanos",
+    "title": "Romanos",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Exposición extensa de Pablo sobre evangelio, pecado, gracia, fe, Israel y vida nueva.",
+    "role": "Carta a una comunidad que Pablo aún no había visitado cuando escribió.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo conecta Pablo la fidelidad de Dios con la vida de judíos y gentiles?"
+  },
+  {
+    "slug": "1-corintios",
+    "title": "1 Corintios",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Aborda divisiones, sexualidad, comida, culto, dones y resurrección en una comunidad plural.",
+    "role": "Respuesta pastoral a conflictos concretos de Corinto; no es un tratado abstracto.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué criterio usa Pablo para ordenar los dones hacia el bien común?"
+  },
+  {
+    "slug": "2-corintios",
+    "title": "2 Corintios",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Carta intensa sobre reconciliación, fragilidad apostólica, generosidad y defensa del ministerio.",
+    "role": "Deja ver una relación difícil y cambiante entre Pablo y la comunidad.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo redefine Pablo la autoridad desde la debilidad?"
+  },
+  {
+    "slug": "galatas",
+    "title": "Gálatas",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Defiende la libertad en Cristo y la incorporación de los gentiles sin asumir la circuncisión.",
+    "role": "Debate una cuestión central de identidad y pertenencia en las primeras comunidades.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué distingue libertad cristiana de individualismo?"
+  },
+  {
+    "slug": "efesios",
+    "title": "Efesios",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Medita sobre unidad, reconciliación y la Iglesia como cuerpo de Cristo.",
+    "role": "La autoría paulina directa se discute; el texto representa la tradición paulina.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo presenta la unidad sin borrar la diversidad?"
+  },
+  {
+    "slug": "filipenses",
+    "title": "Filipenses",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Carta afectuosa sobre alegría, humildad, perseverancia y comunión en Cristo.",
+    "role": "Escrita desde la prisión, aunque el lugar y la reconstrucción de sus secciones se debaten.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué significa alegrarse y servir en circunstancias limitadas?"
+  },
+  {
+    "slug": "colosenses",
+    "title": "Colosenses",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Exalta la primacía de Cristo y llama a una vida transformada en comunidad.",
+    "role": "La relación de autoría con Pablo es debatida en la investigación; conserva un horizonte paulino.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo conecta la visión de Cristo con hábitos y relaciones concretas?"
+  },
+  {
+    "slug": "1-tesalonicenses",
+    "title": "1 Tesalonicenses",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Anima a una comunidad joven, trata la esperanza y responde preguntas sobre los difuntos.",
+    "role": "Suele considerarse una de las cartas paulinas más tempranas, escrita en los años 50 d. C.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo sostiene la esperanza una vida responsable en el presente?"
+  },
+  {
+    "slug": "2-tesalonicenses",
+    "title": "2 Tesalonicenses",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Reflexiona sobre perseverancia, trabajo y expectativas acerca del día del Señor.",
+    "role": "La autoría paulina es debatida; lee la carta en diálogo con 1 Tesalonicenses.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué confusiones sobre el final busca corregir?"
+  },
+  {
+    "slug": "1-timoteo",
+    "title": "1 Timoteo",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Instrucciones sobre liderazgo, enseñanza y vida de una comunidad.",
+    "role": "Las llamadas cartas pastorales se suelen estudiar como un grupo; su autoría y fecha son discutidas.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué necesidades organizativas y doctrinales intenta atender?"
+  },
+  {
+    "slug": "2-timoteo",
+    "title": "2 Timoteo",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Exhorta a perseverar y transmitir la enseñanza recibida.",
+    "role": "Una carta de tono testamentario que evoca legado y fidelidad.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué se transmite y cómo se responde a la adversidad?"
+  },
+  {
+    "slug": "tito",
+    "title": "Tito",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Orientaciones sobre liderazgo y vida comunitaria en Creta.",
+    "role": "Forma parte de las cartas pastorales; sus instrucciones deben situarse en su contexto antiguo.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo une la enseñanza con el testimonio público?"
+  },
+  {
+    "slug": "filemon",
+    "title": "Filemón",
+    "group": "Cartas paulinas",
+    "testament": "Nuevo Testamento",
+    "summary": "Breve petición de Pablo sobre Onésimo, que transforma una relación de poder en fraternidad.",
+    "role": "Habla desde un mundo esclavista sin ofrecer una ley moderna; su argumento de parentesco en Cristo abre una tensión ética profunda.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué implica tratar como hermano a alguien sometido a una relación desigual?"
+  },
+  {
+    "slug": "hebreos",
+    "title": "Hebreos",
+    "group": "Hebreos",
+    "testament": "Nuevo Testamento",
+    "summary": "Homilía escrita que contempla a Cristo como sumo sacerdote y mediador de una alianza nueva.",
+    "role": "La Iglesia la recibe en el canon; no se presenta como escrita por Pablo y su autor humano es desconocido.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué imágenes del culto y del santuario ayudan a expresar la obra de Cristo?"
+  },
+  {
+    "slug": "santiago",
+    "title": "Santiago",
+    "group": "Cartas católicas",
+    "testament": "Nuevo Testamento",
+    "summary": "Enseñanza sapiencial sobre pruebas, palabra, riqueza, oración y obras.",
+    "role": "Su insistencia en las obras conversa con Pablo, aunque ambos responden a preguntas distintas.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué acciones verifican una fe que escucha la palabra?"
+  },
+  {
+    "slug": "1-pedro",
+    "title": "1 Pedro",
+    "group": "Cartas católicas",
+    "testament": "Nuevo Testamento",
+    "summary": "Anima a comunidades vulnerables a sostener esperanza y conducta fiel.",
+    "role": "Usa el lenguaje de peregrinación y pertenencia para comunidades dispersas en Asia Menor.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo propone el texto responder al sufrimiento sin reproducir el mal?"
+  },
+  {
+    "slug": "2-pedro",
+    "title": "2 Pedro",
+    "group": "Cartas católicas",
+    "testament": "Nuevo Testamento",
+    "summary": "Advierte sobre falsos maestros y aborda la espera de la venida del Señor.",
+    "role": "Una de las cartas cuya fecha y autoría se debaten; dialoga con la tradición recibida.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo relaciona paciencia divina y responsabilidad moral?"
+  },
+  {
+    "slug": "1-juan",
+    "title": "1 Juan",
+    "group": "Cartas católicas",
+    "testament": "Nuevo Testamento",
+    "summary": "Une confesión de Cristo, amor fraterno y discernimiento frente al error.",
+    "role": "Se relaciona estrechamente con el Evangelio de Juan, aunque no es una carta personal convencional.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué pruebas concretas propone para reconocer el amor y la verdad?"
+  },
+  {
+    "slug": "2-juan",
+    "title": "2 Juan",
+    "group": "Cartas católicas",
+    "testament": "Nuevo Testamento",
+    "summary": "Breve carta que vincula caminar en la verdad con el amor y la vigilancia.",
+    "role": "La “Señora elegida” puede aludir a una comunidad, además de admitir lectura personal.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo mantener juntos hospitalidad y discernimiento?"
+  },
+  {
+    "slug": "3-juan",
+    "title": "3 Juan",
+    "group": "Cartas católicas",
+    "testament": "Nuevo Testamento",
+    "summary": "Elogia la hospitalidad de Gayo y critica el poder de Diótrefes.",
+    "role": "Muestra desacuerdos reales sobre liderazgo y acogida de misioneros.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué distingue el servicio de la búsqueda de prestigio?"
+  },
+  {
+    "slug": "judas",
+    "title": "Judas",
+    "group": "Cartas católicas",
+    "testament": "Nuevo Testamento",
+    "summary": "Llama a conservar la fe recibida y usa ejemplos y tradiciones antiguas.",
+    "role": "Recurre a textos y tradiciones judías conocidos por sus destinatarios.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Cómo reconoce el autor la enseñanza que amenaza a la comunidad?"
+  },
+  {
+    "slug": "apocalipsis",
+    "title": "Apocalipsis",
+    "group": "Apocalipsis",
+    "testament": "Nuevo Testamento",
+    "summary": "Visiones simbólicas de conflicto, perseverancia, juicio y nueva creación.",
+    "role": "Es literatura apocalíptica para comunidades bajo presión; sus imágenes no son un calendario literal de titulares.",
+    "context": "Sitúa el texto en el judaísmo del Segundo Templo, el Imperio romano y las comunidades cristianas del siglo I. Las fechas y atribuciones de algunos escritos son debatidas.",
+    "question": "¿Qué consuelo ofrecía el símbolo a sus primeros oyentes y cómo transforma su fidelidad?"
+  }
+]

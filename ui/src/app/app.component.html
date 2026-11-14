@@ -1,0 +1,51 @@
+<a class="skip-link" href="#main">Saltar al contenido</a>
+<header class="topbar">
+  <nav class="nav shell" aria-label="Navegación principal">
+    <a class="brand" href="#inicio"><span class="brand-mark" aria-hidden="true">✦</span><span>Mapa bíblico</span></a>
+    <div class="nav-links"><a href="#libros">Los libros</a><a href="#cronologia">Cronología</a><a href="#lectura">Cómo leer</a><a href="#fuentes">Fuentes</a></div>
+  </nav>
+</header>
+
+<main id="main">
+  <section class="hero" id="inicio">
+    <div class="shell hero-inner">
+      <div class="eyebrow">Una guía para orientarse en la Escritura</div>
+      <h1>La Biblia como una historia que se despliega.</h1>
+      <p>Explora los 73 libros, reconoce su contexto y sigue los grandes hilos que los conectan. Una guía católica, visual y navegable para leer con más comprensión.</p>
+      <div class="hero-actions"><a class="button button-gold" href="#libros">Explorar los libros <span aria-hidden="true">↓</span></a><a class="button button-outline" href="#lectura">Aprender a contextualizar</a><a class="button button-outline" href="/guia-biblica-catolica.pdf" download>Descargar guía PDF</a></div>
+      <div class="stats"><div><strong>73</strong><span>libros del canon católico</span></div><div><strong>2</strong><span>testamentos en una historia</span></div><div><strong>1</strong><span>gran horizonte de alianza y esperanza</span></div></div>
+    </div>
+  </section>
+
+  <section class="section shell">
+    <div class="section-heading"><div class="eyebrow dark">El panorama</div><h2>Una biblioteca, muchas voces</h2><p>La Biblia católica reúne escritos de épocas, géneros y comunidades diferentes. Esta guía los organiza para que puedas situar cada libro sin perder de vista el conjunto.</p></div>
+    <div class="overview-grid">
+      <article class="panel"><h3>El canon católico</h3><div class="canon-stats"><div><b>46</b><span>libros del Antiguo Testamento</span></div><div><b>27</b><span>libros del Nuevo Testamento</span></div></div><p class="note">Las tradiciones cristianas no tienen exactamente la misma lista del Antiguo Testamento. Aquí seguimos el canon católico definido en el Catecismo (CEC 120).</p></article>
+      <article class="panel"><h3>Una ruta para cada pasaje</h3><ol class="steps"><li><b>Observa</b><span>¿Quién habla, a quién, dónde y en qué género?</span></li><li><b>Ubica</b><span>¿Qué sucede antes y después? ¿Qué mundo presupone el texto?</span></li><li><b>Conecta</b><span>¿Cómo conversa con el resto de la Escritura y la Tradición?</span></li></ol></article>
+    </div>
+  </section>
+
+  <section class="section explorer" id="libros">
+    <div class="shell"><div class="section-heading"><div class="eyebrow dark">Explora el mapa</div><h2>Encuentra tu lugar en la Biblia</h2><p>Busca un libro o filtra por sección. Abre cualquier ficha para ver su papel, contexto y una pregunta que ayude a leerlo.</p></div>
+      <div class="filters"><label class="search-box"><span class="sr-only">Buscar libro</span><input type="search" [value]="search()" (input)="search.set($any($event.target).value)" placeholder="Buscar por nombre o tema…"></label><label><span class="sr-only">Filtrar por sección</span><select [value]="group()" (change)="group.set($any($event.target).value)"><option value="">Todas las secciones</option>@for (item of groups(); track item) { <option [value]="item">{{ item }}</option> }</select></label><label><span class="sr-only">Filtrar por testamento</span><select [value]="testament()" (change)="testament.set($any($event.target).value)"><option value="">Ambos testamentos</option><option>Antiguo Testamento</option><option>Nuevo Testamento</option></select></label></div>
+      @if (loading()) { <p class="status" role="status">Cargando los libros…</p> }
+      @if (error()) { <p class="status error" role="alert">{{ error() }}</p> }
+      @if (!loading() && !error()) { <p class="result-count" aria-live="polite">{{ filteredBooks().length }} de {{ books().length }} libros</p>
+        @if (filteredBooks().length) { <div class="book-grid">@for (book of filteredBooks(); track book.slug) { <button class="book-card" (click)="openBook(book)" [attr.aria-label]="'Abrir ficha de ' + book.title"><span class="book-card-top"><span class="book-title">{{ book.title }}</span><span class="tag">{{ book.group }}</span></span><span class="book-summary">{{ book.summary }}</span></button> }</div> }
+        @else { <p class="status">No hay libros que coincidan. Prueba con otra búsqueda.</p> }
+      }
+    </div>
+  </section>
+
+  <section class="section shell" id="cronologia"><div class="section-heading"><div class="eyebrow dark">Orientación histórica</div><h2>Una cronología con cautela</h2><p>Las fechas de los acontecimientos y la composición de los libros no siempre coinciden. La cronología ayuda a orientarse, pero varias dataciones son aproximadas o debatidas.</p></div><div class="timeline-grid">@for (item of timeline(); track item.title) { <article class="era"><span class="period">{{ item.period }}</span><h3>{{ item.title }}</h3><p>{{ item.description }}</p></article> }</div><p class="caution">Las fechas expresan marcos de orientación, no certezas uniformes. “Fecha del relato” y “fecha de redacción” son preguntas distintas; evita convertir cronologías discutidas en hechos cerrados.</p></section>
+
+  <section class="section context-section"><div class="shell"><div class="eyebrow dark">Contextualizar también es mirar</div><h2>Cuatro lentes para leer con profundidad</h2><p class="section-intro">No son atajos para cerrar el significado, sino preguntas que ayudan a escucharlo mejor.</p><div class="context-grid"><article class="context-card"><span>⌖</span><h3>Geografía</h3><p>Egipto, Canaán, Babilonia, Persia, Galilea, Judea y las ciudades del Mediterráneo no son un decorado: condicionan rutas, poder, exilio y misión.</p></article><article class="context-card"><span>◷</span><h3>Historia</h3><p>Imperios, alianzas, deportaciones, reformas y ocupaciones ofrecen contexto. Distingue lo atestiguado de lo reconstruido y de lo que el texto afirma teológicamente.</p></article><article class="context-card"><span>✎</span><h3>Género literario</h3><p>Un salmo, una parábola, una genealogía, una carta y una visión apocalíptica comunican de modos distintos. Pregunta qué pretende cada forma.</p></article><article class="context-card"><span>⌁</span><h3>Hilos que conectan</h3><p>Creación, promesa, éxodo, alianza, reino, exilio, sabiduría, justicia, esperanza y nueva creación reaparecen con variaciones en distintos libros.</p></article></div></div></section>
+
+  <section class="section reading-section" id="lectura"><div class="shell"><div class="eyebrow">Criterios de lectura católica</div><h2>Lee cada texto en su mundo y en el conjunto</h2><p class="section-intro">La lectura católica integra el estudio histórico y literario con la unidad de la Escritura y la vida de la Iglesia.</p><div class="criteria-grid"><article><span>01 · Texto y época</span><h3>Escucha la voz humana</h3><p>Atiende a la intención del autor, la cultura, el momento histórico y las formas de narrar. La verdad se expresa de manera distinta según el género.</p></article><article><span>02 · Unidad bíblica</span><h3>Conecta sin borrar diferencias</h3><p>Lee Antiguo y Nuevo Testamento en relación. La lectura cristiana reconoce a Cristo como centro, sin quitar al Antiguo Testamento su valor propio de revelación.</p></article><article><span>03 · Tradición y fe</span><h3>Discierne dentro de la Iglesia</h3><p>La Escritura se comprende en la Tradición viva y la analogía de la fe: la coherencia de las verdades cristianas. Una interpretación privada no equivale por sí sola a doctrina.</p></article></div><p class="caution">Síntesis de <i>Dei Verbum</i> 12 y Catecismo de la Iglesia Católica 109–119, 128–130.</p></div></section>
+
+  <section class="section shell" id="fuentes"><div class="section-heading"><div class="eyebrow dark">Fuentes y límites</div><h2>De dónde parte esta guía</h2><p>La guía organiza y resume para orientar. No sustituye la lectura del texto bíblico, el estudio especializado ni el acompañamiento pastoral.</p></div><div class="source-grid">@for (source of sources(); track source.url) { <article class="source"><a [href]="source.url" target="_blank" rel="noopener">{{ source.title }} ↗</a><p>{{ source.description }}</p></article> }</div></section>
+</main>
+
+<footer><div class="shell footer-content"><span>Mapa bíblico católico · Guía original de orientación</span><span>Lee el pasaje completo en una traducción católica aprobada y consulta sus notas.</span></div></footer>
+
+@if (selectedBook(); as book) { <div class="modal-backdrop" (click)="closeBook()" (keydown.escape)="closeBook()"><section class="book-dialog" role="dialog" aria-modal="true" [attr.aria-labelledby]="'book-' + book.slug" (click)="$event.stopPropagation()"><button class="close-button" (click)="closeBook()" aria-label="Cerrar ficha">×</button><span class="tag">{{ book.group }} · {{ book.testament }}</span><h2 [id]="'book-' + book.slug">{{ book.title }}</h2><p class="dialog-summary">{{ book.summary }}</p><div class="detail"><b>En el conjunto</b><p>{{ book.role }}</p></div><div class="detail"><b>Contexto para recordar</b><p>{{ book.context }}</p></div><div class="detail"><b>Pregunta de lectura</b><p>{{ book.question }}</p></div></section></div> }

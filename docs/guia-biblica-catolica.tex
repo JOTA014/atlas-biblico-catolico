@@ -1,0 +1,177 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-nodecimaldot]{babel}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\definecolor{forest}{HTML}{173B3B}
+\definecolor{rust}{HTML}{A6533F}
+\definecolor{gold}{HTML}{B68D43}
+\hypersetup{colorlinks=true,linkcolor=forest,urlcolor=rust}
+\titleformat{\section}{\Large\bfseries\color{forest}}{\thesection}{.7em}{}
+\titleformat{\subsection}{\large\bfseries\color{forest}}{\thesubsection}{.7em}{}
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.22}
+\newcommand{\bookrow}[2]{\textbf{#1} & #2\\}
+\begin{document}
+\begin{titlepage}
+\pagecolor{forest}\color{white}
+\vspace*{2.7cm}
+{\large\color{gold}\textbf{GUÍA DE ORIENTACIÓN}}\par
+\vspace{1cm}
+{\Huge\bfseries Mapa bíblico católico}\par
+\vspace{.7cm}
+{\LARGE Comprender los libros, su contexto y sus conexiones}\par
+\vspace{1.6cm}
+{\large Una guía original para acompañar la lectura y el estudio de la Biblia.}\par
+\vfill
+{\large 73 libros \quad|\quad Cronología \quad|\quad Claves de lectura}\par
+\vspace{.7cm}
+{\small Versión 1.0 · Noviembre de 2026}\par
+\end{titlepage}
+\nopagecolor\color{black}
+\section*{Cómo usar esta guía}
+Esta guía es un mapa de entrada, no un comentario exhaustivo. Sus fichas resumen la función general de cada libro y proponen una pregunta para iniciar la lectura. Para estudiar un pasaje, lee primero el texto completo en una traducción católica, observa sus notas y consulta el contexto literario e histórico.
+
+Las fechas y las atribuciones no tienen todas el mismo grado de certeza. Cuando hay debate, esta guía lo indica en vez de convertir una hipótesis en un dato cerrado. Una fecha de composición tampoco es lo mismo que la época narrada.
+
+\textbf{Ruta sugerida:} (1) ubica el libro en el canon; (2) identifica género y situación; (3) sigue sus temas e imágenes; (4) lee en relación con toda la Escritura y la Tradición; (5) vuelve al pasaje y formula tu propia pregunta.
+
+\section{La biblioteca de 73 libros}
+El Catecismo de la Iglesia Católica enumera 46 libros para el Antiguo Testamento y 27 para el Nuevo (CEC 120). Las tradiciones cristianas no comparten exactamente la misma lista del Antiguo Testamento. Esta guía sigue el canon católico. Los libros llamados deuterocanónicos en la tradición católica incluyen Tobías, Judit, Sabiduría, Sirácida, Baruc y 1--2 Macabeos; Ester y Daniel contienen también secciones griegas recibidas en las Biblias católicas.
+
+\small
+\begin{longtable}{>{\raggedright\arraybackslash}p{.23\textwidth} >{\raggedright\arraybackslash}p{.70\textwidth}}
+\toprule \textbf{Libro} & \textbf{Orientación para situarlo} \\ \midrule
+\endfirsthead
+\toprule \textbf{Libro} & \textbf{Orientación para situarlo} \\ \midrule
+\endhead
+\bookrow{Génesis}{Creación, humanidad, ancestros y comienzos de Israel; promesa, bendición y providencia.}
+\bookrow{Éxodo}{Liberación de Egipto, alianza del Sinaí y presencia de Dios en medio del pueblo.}
+\bookrow{Levítico}{Leyes rituales, sacerdotales y éticas sobre santidad, culto y vida comunitaria.}
+\bookrow{Números}{El camino por el desierto, sus crisis y la preparación para entrar en la tierra.}
+\bookrow{Deuteronomio}{Discursos de Moisés que recuerdan la alianza y llaman a elegir la fidelidad.}
+\bookrow{Josué}{Entrada en Canaán, tierra y renovación de la alianza; relato antiguo con propósito teológico.}
+\bookrow{Jueces}{Ciclos de opresión y liberación antes de la monarquía; figuras como Débora y Sansón.}
+\bookrow{Rut}{Lealtad entre Rut y Noemí y su vínculo con la genealogía de David.}
+\bookrow{1 Samuel}{Samuel, Saúl y los inicios de la monarquía; promesa y riesgo del poder real.}
+\bookrow{2 Samuel}{Reinado de David, promesa dinástica y conflictos de su casa.}
+\bookrow{1 Reyes}{Salomón, el Templo, la división del reino y los profetas Elías y Eliseo.}
+\bookrow{2 Reyes}{Historia de los reinos hasta la caída de Samaria y la destrucción de Jerusalén.}
+\bookrow{1 Crónicas}{Genealogías y memoria de David desde la perspectiva de la comunidad posterior al exilio.}
+\bookrow{2 Crónicas}{Salomón, el Templo, Judá, reformas y esperanza de restauración.}
+\bookrow{Esdras}{Retorno del exilio y reconstrucción del Templo bajo dominio persa.}
+\bookrow{Nehemías}{Reconstrucción de Jerusalén y reformas sociales y religiosas de la comunidad.}
+\bookrow{Tobías}{Relato sapiencial sobre familia, oración, limosna, fidelidad y esperanza en la diáspora.}
+\bookrow{Judit}{Viuda valiente que salva a su pueblo; relato sobre poder, fidelidad y liberación.}
+\bookrow{Ester}{Una mujer judía en la corte persa interviene para proteger a su pueblo.}
+\bookrow{1 Macabeos}{Revuelta macabea y recuperación del Templo bajo presión seléucida.}
+\bookrow{2 Macabeos}{Otra perspectiva de la persecución y la revuelta, con martirio y esperanza de resurrección.}
+\bookrow{Job}{Poesía y diálogo sobre el sufrimiento del justo y los límites de las explicaciones.}
+\bookrow{Salmos}{Oraciones, himnos, lamentos y acciones de gracias para la oración de Israel y de la Iglesia.}
+\bookrow{Proverbios}{Enseñanzas breves para formar el juicio y la conducta cotidiana.}
+\bookrow{Eclesiastés (Qohelet)}{Reflexión sobre tiempo, trabajo, muerte y límites del conocimiento.}
+\bookrow{Cantar de los Cantares}{Poemas de amor humano, leídos también simbólicamente en la tradición.}
+\bookrow{Sabiduría}{Justicia, sabiduría e inmortalidad en diálogo con el mundo judío helenístico.}
+\bookrow{Sirácida (Eclesiástico)}{Enseñanzas de Ben Sirá sobre vida práctica, culto y sabiduría.}
+\bookrow{Isaías}{Colección profética sobre justicia, juicio, confianza, consuelo y restauración.}
+\bookrow{Jeremías}{Crisis de Judá, caída de Jerusalén y promesa de una alianza renovada.}
+\bookrow{Lamentaciones}{Poemas de duelo por Jerusalén que dan forma litúrgica al dolor comunitario.}
+\bookrow{Baruc}{Confesión, sabiduría y consuelo en la memoria del exilio; incluye la Carta de Jeremías.}
+\bookrow{Ezequiel}{Visiones y acciones simbólicas sobre exilio, juicio, responsabilidad y restauración.}
+\bookrow{Daniel}{Relatos de fidelidad y visiones apocalípticas; la edición católica incluye secciones griegas.}
+\bookrow{Oseas}{Imágenes de amor herido expresan infidelidad, juicio y misericordia persistente.}
+\bookrow{Joel}{Plaga, liturgia, día del Señor y promesa del Espíritu.}
+\bookrow{Amós}{Denuncia de la injusticia; el culto no puede separarse del trato al pobre.}
+\bookrow{Abdías}{Oráculo contra Edom ligado al dolor por la caída de Jerusalén.}
+\bookrow{Jonás}{Relato didáctico sobre un profeta renuente y la misericordia de Dios.}
+\bookrow{Miqueas}{Crítica a los poderosos y llamada a la justicia, la misericordia y la humildad.}
+\bookrow{Nahúm}{Poema contra Nínive que proclama el fin de la violencia imperial asiria.}
+\bookrow{Habacuc}{Diálogo que pregunta por la injusticia y termina en una oración de confianza.}
+\bookrow{Sofonías}{Día del Señor como juicio y purificación, con horizonte de restauración.}
+\bookrow{Ageo}{Llamada a reconstruir el Templo en la comunidad postexílica.}
+\bookrow{Zacarías}{Visiones que alientan a la comunidad postexílica; las dos partes muestran diferencias.}
+\bookrow{Malaquías}{Crítica al culto descuidado e invitación a renovar la alianza.}
+\bookrow{Mateo}{Jesús Mesías y maestro, presentado en diálogo con las Escrituras de Israel.}
+\bookrow{Marcos}{Relato de Jesús, el servicio y el discipulado en el camino hacia la cruz.}
+\bookrow{Lucas}{Misericordia, oración y salvación; continúa en los Hechos de los Apóstoles.}
+\bookrow{Juan}{Signos y discursos invitan a creer y recibir vida en Jesús.}
+\bookrow{Hechos de los Apóstoles}{La misión cristiana se extiende desde Jerusalén hacia los pueblos y Roma.}
+\bookrow{Romanos}{Pablo reflexiona sobre evangelio, gracia, fe, Israel y vida nueva.}
+\bookrow{1 Corintios}{Pablo responde a divisiones, culto, dones, vida comunitaria y resurrección.}
+\bookrow{2 Corintios}{Reconciliación, generosidad y ministerio apostólico en medio de la fragilidad.}
+\bookrow{Gálatas}{Libertad en Cristo y pertenencia de los gentiles sin circuncisión.}
+\bookrow{Efesios}{Unidad, reconciliación y la Iglesia como cuerpo de Cristo; autoría debatida.}
+\bookrow{Filipenses}{Alegría, humildad y comunión en Cristo en una carta escrita desde la prisión.}
+\bookrow{Colosenses}{Primacía de Cristo y vida transformada; relación de autoría con Pablo debatida.}
+\bookrow{1 Tesalonicenses}{Ánimo a una comunidad joven y esperanza ante la muerte; carta temprana.}
+\bookrow{2 Tesalonicenses}{Perseverancia, trabajo y expectativas sobre el día del Señor; autoría debatida.}
+\bookrow{1 Timoteo}{Orientaciones sobre enseñanza y liderazgo; forma parte de las cartas pastorales.}
+\bookrow{2 Timoteo}{Perseverancia y transmisión de la enseñanza recibida.}
+\bookrow{Tito}{Liderazgo y vida comunitaria en Creta; pertenece a las cartas pastorales.}
+\bookrow{Filemón}{Petición sobre Onésimo que apela a la fraternidad en Cristo en un mundo esclavista.}
+\bookrow{Hebreos}{Homilía sobre Cristo como sumo sacerdote; autor humano desconocido, no se atribuye aquí a Pablo.}
+\bookrow{Santiago}{Sabiduría práctica sobre palabra, riqueza, oración y obras de la fe.}
+\bookrow{1 Pedro}{Esperanza y conducta fiel para comunidades vulnerables y dispersas.}
+\bookrow{2 Pedro}{Perseverancia ante falsos maestros y reflexión sobre la espera; fecha debatida.}
+\bookrow{1 Juan}{Confesión de Cristo, verdad y amor fraterno como criterios de discernimiento.}
+\bookrow{2 Juan}{Verdad, amor, hospitalidad y vigilancia en una comunidad.}
+\bookrow{3 Juan}{Hospitalidad y conflicto de liderazgo en una comunidad concreta.}
+\bookrow{Judas}{Llamada a conservar la fe recibida con ejemplos de tradiciones antiguas.}
+\bookrow{Apocalipsis}{Visiones simbólicas de perseverancia, juicio y nueva creación para comunidades bajo presión.}
+\bottomrule
+\end{longtable}
+\normalsize
+
+\section{Una cronología para orientarse}
+\begin{itemize}[leftmargin=1.2em]
+\item \textbf{Ancestros y éxodo:} Génesis--Deuteronomio narran origen, familias ancestrales, salida de Egipto y alianza. Las fechas y detalles históricos se estudian y debaten.
+\item \textbf{Reinos y profetas (aprox. 1000--586 a. C.):} monarquía, división entre Israel y Judá, profetas y caída de Jerusalén ante Babilonia en 586 a. C.
+\item \textbf{Exilio, retorno e imperios (539--63 a. C.):} dominio persa, retorno y reconstrucción del Templo; luego expansión helenística y crisis que enmarca 1--2 Macabeos.
+\item \textbf{Jesús y las primeras comunidades (aprox. 6 a. C.--100 d. C.):} Jesús vive bajo dominio romano; tras su muerte crecen comunidades cristianas. La mayoría de los escritos del Nuevo Testamento se compone durante el siglo I; algunas dataciones se discuten en torno al cambio de siglo o a inicios del II.
+\end{itemize}
+Las fechas son marcos de orientación. La fecha del acontecimiento narrado y la de composición de un libro son preguntas distintas; no todas tienen una respuesta unánime.
+
+\section{Tres criterios católicos para interpretar}
+\subsection{Atender al texto humano}
+La constitución \textit{Dei Verbum} 12 y el Catecismo 109--110 piden considerar la intención de los autores, las condiciones de su época y los géneros literarios. Un poema, una visión, una parábola, una carta y una narración histórica no comunican del mismo modo.
+
+\subsection{Leer en la unidad de toda la Escritura}
+El Catecismo 112--114 invita a prestar atención al contenido y la unidad de la Escritura, a la Tradición viva y a la analogía de la fe. Los libros conversan entre sí; no se debe arrancar una frase de su contexto para hacerla decir cualquier cosa.
+
+\subsection{Relacionar los Testamentos sin borrar el primero}
+Los cristianos leen el Antiguo Testamento a la luz de Cristo, y leen el Nuevo a la luz del Antiguo (CEC 128--130). La lectura tipológica no elimina el valor propio del Antiguo Testamento ni sustituye el sentido literal por asociaciones arbitrarias.
+
+\section{Preguntas útiles para cualquier pasaje}
+\begin{enumerate}[leftmargin=1.2em]
+\item ¿Quién habla, a quién, dónde y en qué género literario?
+\item ¿Qué ocurre antes y después del pasaje? ¿Qué palabras o imágenes se repiten?
+\item ¿Qué situación histórica puede iluminarlo y qué datos siguen siendo debatidos?
+\item ¿Cómo dialoga con otros libros y con la tradición de la Iglesia?
+\item ¿Qué afirma el texto, qué no afirma y qué pregunta deja abierta?
+\end{enumerate}
+
+\section{Revisión pública del material de referencia}
+La página pública de \textit{Mapas de la Palabra} anuncia resúmenes visuales de los 73 libros, un panorama bíblico, cronología, diario espiritual y un material digital imprimible de más de 200 páginas. Presenta además su contenido como fiel a la doctrina católica. Estas son afirmaciones comerciales del sitio, no una validación independiente.
+
+\textbf{Lo que puede verificarse públicamente:} el alcance y los componentes anunciados; el uso explícito del canon católico de 73 libros; y que el producto declara ser descargable e imprimible.
+
+\textbf{Lo que la página pública no permite comprobar:} exactitud de los resúmenes; calidad de las referencias bíblicas; distinción entre texto bíblico, tradición e hipótesis histórica; tratamiento de géneros literarios y cuestiones debatidas; autoría académica y revisión editorial o eclesial. Para evaluar esos puntos hace falta leer el material completo. No debe confundirse una declaración del vendedor con aprobación oficial de la Iglesia.
+
+\section{Fuentes de referencia}
+\begin{itemize}[leftmargin=1.2em]
+\item Catecismo de la Iglesia Católica, especialmente nn. 109--119, 120 y 128--130: \url{https://www.vatican.va/archive/catechism_sp/p1s1c2a3_sp.html}
+\item Concilio Vaticano II, \textit{Dei Verbum}, especialmente nn. 12 y 21--26: \url{https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html}
+\item Pontificia Comisión Bíblica, documentos, incluidos \textit{La interpretación de la Biblia en la Iglesia} (1993): \url{https://www.vatican.va/roman_curia/congregations/cfaith/pcb_doc_index.htm}
+\item Página pública de referencia: \url{https://www.mapasdelapalabra.com/}
+\end{itemize}
+\vfill
+\begin{center}\small Guía didáctica original de orientación. No es catecismo oficial ni declaración de aprobación eclesial.\end{center}
+\end{document}
