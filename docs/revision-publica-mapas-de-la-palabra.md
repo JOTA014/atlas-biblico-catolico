@@ -5,7 +5,7 @@
 
 ## Qué anuncia
 
-La página presenta un material digital e imprimible para lectores católicos. Anuncia resúmenes visuales de los 73 libros, un panorama de la Biblia, una secuencia cronológica de acontecimientos, un diario espiritual y material complementario. La página habla de más de 200 páginas y afirma que el contenido sigue la doctrina de la Iglesia Católica.
+La página presenta un material digital e imprimible para lectores católicos. Anuncia resúmenes visuales de los 73 libros, un panorama de la Biblia, una secuencia cronológica de acontecimientos, un diario espiritual y material complementario. La página habla de más de 220 páginas y afirma que el contenido es “100% fiel” a la doctrina de la Iglesia Católica. También promociona un “método APROBADO”, pero el texto público revisado no identifica quién lo aprobó ni qué alcance tiene esa aprobación.
 
 Fuente: [Mapas de la Palabra](https://www.mapasdelapalabra.com/).
 
@@ -14,6 +14,7 @@ Fuente: [Mapas de la Palabra](https://www.mapasdelapalabra.com/).
 - **Cobertura:** el alcance anunciado es amplio y se orienta a los 73 libros del canon católico.
 - **Formato didáctico:** combinar fichas visuales, panorama, cronología y espacios de reflexión puede ayudar a organizar una lectura inicial.
 - **Enfoque declarado:** el sitio se dirige explícitamente a lectores católicos y dice seguir la doctrina católica.
+- **Afirmación de aprobación:** la palabra “APROBADO” aparece en la página comercial, sin autoridad aprobadora ni alcance identificados en el texto público revisado. No permite inferir aprobación eclesial formal.
 - **Límite de verificación:** son datos y afirmaciones de la propia página de venta. No demuestran por sí solos que cada resumen sea exacto, que las fechas estén bien matizadas o que exista una aprobación oficial.
 
 ## Lo que la página no permite validar
@@ -25,7 +26,7 @@ Con la información pública consultada no se puede evaluar de forma responsable
 3. Si explica los géneros literarios y las fechas discutidas con suficiente cautela.
 4. La calidad y trazabilidad de las referencias bíblicas y bibliográficas.
 5. Quién redactó o revisó cada sección y con qué cualificaciones.
-6. Si cuenta con una aprobación eclesial formal; la afirmación comercial de fidelidad doctrinal no basta para establecerlo.
+6. Si cuenta con una aprobación eclesial formal; las afirmaciones comerciales de “método APROBADO” y fidelidad doctrinal no bastan para establecerlo.
 
 ## Criterios usados para la guía complementaria
 
@@ -37,4 +38,5 @@ El Catecismo pide considerar la intención de los autores, su época y los géne
 
 ## Conclusión provisional
 
-La página describe una propuesta didáctica potencialmente útil y deja claro el público al que se dirige. **No hay base pública suficiente para validar la precisión de su contenido interno ni su revisión doctrinal.** Para hacer esa auditoría habría que comparar el material descargable, página por página, con los textos bíblicos y fuentes católicas pertinentes.
+La página describe una propuesta didáctica potencialmente útil y deja claro el público al que se dirige. Su uso de “APROBADO” no identifica quién aprobó el método ni equivale, por sí solo, a una aprobación oficial de la Iglesia. **No hay base pública suficiente para validar la precisión de su contenido interno ni su revisión doctrinal.** Para hacer esa auditoría habría que comparar el material descargable, página por página, con los textos bíblicos y fuentes católicas pertinentes.
+
