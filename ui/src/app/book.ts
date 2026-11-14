@@ -7,6 +7,7 @@ export interface Book {
   role: string;
   context: string;
   question: string;
+  sourceUrl: string;
 }
 
 export interface TimelineItem {
@@ -20,3 +21,4 @@ export interface SourceItem {
   url: string;
   description: string;
 }
+
