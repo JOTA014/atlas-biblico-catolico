@@ -72,7 +72,7 @@ app.MapGet("/api/sources", () => Results.Ok(new[]
     new SourceItem("Concilio Vaticano II, Dei Verbum", "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html", "Constitución sobre la revelación divina; en especial, núm. 12 sobre interpretación y géneros literarios."),
     new SourceItem("Pontificia Comisión Bíblica", "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_doc_index.htm", "Incluye La interpretación de la Biblia en la Iglesia (1993) y El pueblo judío y sus Escrituras sagradas en la Biblia cristiana (2001)."),
     new SourceItem("USCCB: Biblia, introducciones y notas por libro", "https://bible.usccb.org/bible", "Índice de los 73 libros con introducciones y notas editoriales católicas, principalmente en inglés."),
-    new SourceItem("Material de referencia: Mapas de la Palabra", "https://www.mapasdelapalabra.com/", "La página anuncia fichas de los 73 libros, panorama, cronología y diario espiritual. Sin el descargable no se valida la exactitud de su contenido interno.")
+    new SourceItem("Material de referencia: Mapas de la Palabra", "https://www.mapasdelapalabra.com/", "La página anuncia fichas de los 73 libros, panorama, cronología y diario espiritual; también usa la expresión «método APROBADO» sin identificar en esa página a la autoridad que lo habría aprobado. Son afirmaciones promocionales y no validan el contenido interno del descargable.")
 }));
 
 app.MapFallbackToFile("index.html");
@@ -81,4 +81,5 @@ app.Run();
 record Book(string Slug, string Title, string Group, string Testament, string Summary, string Role, string Context, string Question, string SourceUrl);
 record TimelineItem(string Period, string Title, string Description);
 record SourceItem(string Title, string Url, string Description);
+
 
