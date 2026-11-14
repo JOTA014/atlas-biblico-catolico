@@ -19,7 +19,7 @@ Requisitos: SDK de .NET 10, Node.js 24.15+, npm y Angular CLI 22.
 2. En otra terminal, dentro de `api/`, ejecuta `dotnet run`.
 3. La configuración proxy de Angular reenvía `/api` a ASP.NET Core en `http://localhost:5080`.
 
-La aplicación Angular queda en `http://localhost:4200`. ASP.NET Core sirve la aplicación compilada desde `wwwroot` en producción y expone la API bajo `/api`.
+La aplicación Angular queda en `http://localhost:4200`. ASP.NET Core sirve la aplicación compilada desde `wwwroot` en producción y expone la API bajo `/api`. Las fichas incluyen una nota de contexto histórica y literaria, una pregunta de lectura y un enlace a la introducción de la USCCB correspondiente.
 
 ## Crear imagen de contenedor
 
@@ -30,7 +30,13 @@ docker build -t mapa-biblico-catolico .
 docker run --rm -p 8080:8080 mapa-biblico-catolico
 ```
 
-La imagen sirve la web y la API en el mismo origen. El sitio está listo para desplegarse en un proveedor compatible con contenedores; el destino público queda pendiente de elegir.
+La imagen sirve la web y la API en el mismo origen. El contenedor escucha en la variable `PORT` que asigna la plataforma (por defecto 8080 en local).
+
+## Despliegue de prueba gratuito en Render
+
+El archivo `render.yaml` configura un servicio web Docker gratuito en Ohio, enlazado a la rama `master`, con comprobación de salud en `/api/overview` y despliegue automático al actualizar la rama. En Render, crea un Blueprint conectado a este repositorio y aplica esa configuración. Render asignará una URL pública `onrender.com`.
+
+Límites actuales del plan Hobby Free: 0,1 CPU y 512 MB de RAM para el servicio; 750 horas de instancia, 5 GB de tráfico saliente y 500 minutos de compilación por espacio de trabajo y mes. El servicio se suspende tras 15 minutos sin tráfico y puede tardar alrededor de un minuto en reactivarse. El sistema de archivos es efímero; esta aplicación no guarda datos de usuarios ni depende de una base de datos. Revisa el uso mensual en Billing: con medio de pago asociado los excedentes pueden generar cargos; sin medio de pago, Render suspende el servicio al agotar el tráfico incluido y pausa las compilaciones al agotar los minutos. Consulta [límites gratuitos](https://render.com/docs/free), [recursos de cómputo](https://render.com/docs/compute-plans), [tráfico saliente](https://render.com/docs/outbound-bandwidth) y [minutos de compilación](https://render.com/docs/build-pipeline).
 
 ## API
 
@@ -55,6 +61,7 @@ Fuentes principales:
 
 ## Estado
 
-El API ASP.NET Core compila con .NET 10 y la interfaz Angular compila en modo de producción con Node.js 24.15. El PDF está incluido en `ui/public/guia-biblica-catolica.pdf` para que la aplicación también lo ofrezca como descarga. La publicación de la pila completa requiere elegir un proveedor que ejecute contenedores.
+El API ASP.NET Core compila con .NET 10 y la interfaz Angular compila en modo de producción con Node.js 24.15. El PDF de 20 páginas está incluido en `ui/public/guia-biblica-catolica.pdf`; cada uno de los 73 libros incluye contexto, pregunta de lectura y enlace a su introducción USCCB.
 
 La carpeta `docs/` incluye la revisión de la página pública de referencia y el fuente LaTeX de la guía.
+
