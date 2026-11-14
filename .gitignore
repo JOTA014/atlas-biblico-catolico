@@ -2,5 +2,7 @@
 **/dist/
 **/bin/
 **/obj/
+ui/.angular/
 **/coverage/
 .env
+
