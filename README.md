@@ -15,7 +15,7 @@ Se eligió .NET 10 por su soporte LTS hasta noviembre de 2028; Angular 22 está 
 
 Requisitos: SDK de .NET 10, Node.js 24.15+, npm y Angular CLI 22.
 
-1. En `ui/`, ejecuta `npm install` y `npm start`.
+1. En `ui/`, ejecuta `npm ci` y `npm start`.
 2. En otra terminal, dentro de `api/`, ejecuta `dotnet run`.
 3. La configuración proxy de Angular reenvía `/api` a ASP.NET Core en `http://localhost:5080`.
 
